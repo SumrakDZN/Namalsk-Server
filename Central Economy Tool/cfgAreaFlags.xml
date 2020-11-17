@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<areas>
+    <usages depth="0" />
+    <values depth="4">
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </values>
+</areas>
