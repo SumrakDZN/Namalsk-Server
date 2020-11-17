@@ -9,18 +9,18 @@ This repo contains all the necessary information and files for any Namalsk serve
 **Basic setup**
 
 1. Download DayZ and DayZ Server in your Steam.
-2. Subscribe to Namalsk Island (LINK) and Namalsk Survival (LINK) packages.
+2. Subscribe to [Namalsk Island](https://media.tenor.com/images/78ed59c71a9472e868490638d61d23e6/tenor.gif) and [Namalsk Survival](https://media.tenor.com/images/78ed59c71a9472e868490638d61d23e6/tenor.gif) packages.
 3. Run DayZ Launcher from Steam and let it install Namalsk Island and Namalsk Survival.
 4. Go to DayZ Server install folder.
-5. Download the key file (LINK) from this repository and place it into the keys folder.
-5. Download server config (LINK) from this repository and place it in the root.
-6. Download a mission of choice (Regular/Hardcore) from this repository and place it within the mpmissions folder.
+5. Download key file from this repository (in folder called *Keys*) and place it into the keys folder.
+5. Download server config from this repository (in folder called *Server Config*) and place it in the root.
+6. Download a mission of choice (Regular/Hardcore) from this repository (in folder called *Mission Files*) and place it within the mpmissions folder.
 7. Run the server with following: *DayZServer_x64.exe -config=serverNamalskCE.cfg -port=2302 "-mod=<path to your DayZ client installation>\!Workshop\@Namalsk Island;<path to your DayZ client installation>\!Workshop\@Namalsk Survival"*
 8. Visit **Frequently Asked Section** for details regarding the server configuration.
 
 **Advanced setup**
 
-If you are running a dedicated machine with multiple DayZ servers, it is recommended to subscribe to Namalsk Island and Namalsk Survival server packages. These contain optimized pbo files for your server (to reduce loading times and memory load). These packages are available on unlisted Steam Workshop items available here (LINK) and here (LINK). In this case, make sure you copy and paste standard (client) Island and Survival mods to your server folder, adjust -mod= launch parameter and overwrite PBO files with the ones from the server packages. Both public and unlisted (server) Namalsk Workshop entries will always be updated at the same time.
+If you are running a dedicated machine with multiple DayZ servers, it is recommended to subscribe to Namalsk Island and Namalsk Survival server packages. These contain optimized pbo files for your server (to reduce loading times and memory load) and are present on unlisted Steam Workshop items available [here](https://media.tenor.com/images/78ed59c71a9472e868490638d61d23e6/tenor.gif) and [here](https://media.tenor.com/images/78ed59c71a9472e868490638d61d23e6/tenor.gif). Both public and unlisted (server) Namalsk Workshop entries will always be updated at the same time. If you want to use these, make sure you copy and paste standard (client) Island and Survival mods to your server folder, adjust -mod= launch parameter accordingly and overwrite PBO files with the ones from the server packages.
 
 # Frequently Asked Questions (FAQ)
 **Q: Can I use Namalsk Island without Namalsk Survival and vice versa?**
