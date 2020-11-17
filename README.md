@@ -25,24 +25,24 @@ If you are running a dedicated machine with multiple DayZ servers, it is recomme
 # Frequently Asked Questions (FAQ)
 > Can I use Namalsk Island without Namalsk Survival and vice versa?
 
-A: Yes.
+Yes.
 
-**Q: Can I monetize my server when using Namalsk Terrain and/or Namalsk Survival mods?**
+> Can I monetize my server when using Namalsk Terrain and/or Namalsk Survival mods?
 
-A: No. You may accept donations from people, but you are obliged to give nothing in return.
+No. You may accept donations from people, but you are obliged to give nothing in return.
 
-**Q: Can I repack Namalsk Island and/or Namalsk Survival mods?**
+> Can I repack Namalsk Island and/or Namalsk Survival mods?
 
-A: No, use Steam Workshop collections!
+No, use Steam Workshop collections!
 
-**Q: Is Namalsk compatible with X?**
+> Is Namalsk compatible with X?
 
-A: I do not have any comprehensive list of what works with it and what not. What I can say is that I tried to make both Namalsk Terrain and Namalsk Survival as light as possible to make sure it is compatible with plenty of mods out there.
+I do not have any comprehensive list of what works with it and what not. What I can say is that I tried to make both Namalsk Terrain and Namalsk Survival as light as possible to make sure it is compatible with plenty of mods out there.
 
-**Q: Can my mod somehow detect Namalsk?**
+> Can my mod somehow detect Namalsk?**
 
-A: Yes, quite possibly - using script #ifdef NAMALSK_SURVIVAL and/or NAMALSK_TERRAIN.
+Yes, quite possibly - using script *#ifdef NAMALSK_SURVIVAL* and/or *NAMALSK_TERRAIN*.
 
-**Q: What is the suggested player count for Namalsk?**
+> What is the suggested player count for Namalsk?
 
-A: From my experience, I would recommend setting the maximum to 30-40 players.
+From my experience, I would recommend setting the maximum to 30-40 players.
