@@ -3,7 +3,7 @@ Welcome to the Namalsk Server Files repo.
 This repo contains all the necessary information and files for any Namalsk server hoster.
 
 # WARNING
-You cannot monetize server that is running Namalsk Island / Namalsk Survival mods! This includes even things such as selling priority queue slots.
+**You cannot monetize server that is running Namalsk Island / Namalsk Survival mods! This includes even things such as selling priority queue slots.**
 
 # Server Installation
 **Basic setup**
@@ -23,26 +23,66 @@ You cannot monetize server that is running Namalsk Island / Namalsk Survival mod
 If you are running a dedicated machine with multiple DayZ servers, it is recommended to subscribe to Namalsk Island and Namalsk Survival server packages. These contain optimized pbo files for your server (to reduce loading times and memory load). These packages are available on unlisted Steam Workshop items available here (LINK) and here (LINK). In this case, make sure you copy and paste standard (client) Island and Survival mods to your server folder, adjust -mod= launch parameter and overwrite PBO files with the ones from the server packages. Both public and unlisted (server) Namalsk Workshop entries will always be updated at the same time.
 
 # Frequently Asked Questions (FAQ)
-> Can I use Namalsk Island without Namalsk Survival and vice versa?
+**Q: Can I use Namalsk Island without Namalsk Survival and vice versa?**
 
-Yes.
+A: Yes.
 
-> Can I monetize my server when using Namalsk Terrain and/or Namalsk Survival mods?
+**Q: Can I monetize my server when using Namalsk Terrain and/or Namalsk Survival mods?**
 
-No. You may accept donations from people, but you are obliged to give nothing in return.
+A: No. You may accept donations from people, but you are obliged to give nothing in return.
 
-> Can I repack Namalsk Island and/or Namalsk Survival mods?
+**Q: Can I repack Namalsk Island and/or Namalsk Survival mods?**
 
-No, use Steam Workshop collections!
+A: No, use Steam Workshop collections!
 
-> Is Namalsk compatible with X?
+**Q: Is Namalsk compatible with X?**
 
-I do not have any comprehensive list of what works with it and what not. What I can say is that I tried to make both Namalsk Terrain and Namalsk Survival as light as possible to make sure it is compatible with plenty of mods out there.
+A: I do not have any comprehensive list of what works with it and what not. What I can say is that I tried to make both Namalsk Terrain and Namalsk Survival as light as possible to make sure it is compatible with plenty of mods out there.
 
-> Can my mod somehow detect Namalsk?**
+**Q: Can my mod somehow detect Namalsk?**
 
-Yes, quite possibly - using script *#ifdef NAMALSK_SURVIVAL* and/or *NAMALSK_TERRAIN*.
+A: Yes, quite possibly - using script *#ifdef NAMALSK_SURVIVAL* and/or *NAMALSK_TERRAIN*.
 
-> What is the suggested player count for Namalsk?
+**Q: What is the suggested player count for Namalsk?**
 
-From my experience, I would recommend setting the maximum to 30-40 players.
+A: From my experience, I would recommend setting the maximum to 30-40 players.
+
+**Q: Where can I find a default server config for Namalsk?**
+
+A: Look into the *Server Config* folder in this repository. The config is split into two sections (standard server params and custom Namalsk edits). If you are using your own custom server config, I very much do recommend to look into the default Namalsk one to check the params for your Namalsk server.
+
+**Q: Is there a dark and bright night lighting setup for Namalsk?**
+
+A: Yes, use value *222* for dark and *223* for bright in your server config (*lightingConfig* parameter).
+
+**Q: Where can I find a default mission for Namalsk?**
+
+A: Look into the *Mission Files* folder in this repository. Namalsk has two missions available - Regular and Hardcore. Difference between these two are in the loot availability and the presence of vehicles.
+
+**Q: Can I use my own custom init.c?**
+
+A: Not recommended, build your own *init.c* from the ones that are included in this repository.
+
+**Q: Where can I find a default CE Tool project files for Namalsk?**
+
+A: Look into the *Central Economy Tool* folder in this repository. Namalsk is using area territories for most animals (rather than territories per species). As for areaflags.map, that is used only for the tier definition.
+
+**Q: Can I use my standard types.xml from Chernarus/Livonia on Namalsk?**
+
+A: Not entirely, Namalsk uses CE params in a different way than the vanilla terrains. There are no usage flags, only categories, tags (which act as usage flags per containers) and value flags (tiers) on map groups (buildings). Look into existing (vanilla) Namalsk types (types.xml), to get an idea how to configure your own.
+
+**Q: Can I add new types to the existing vanilla Namalsk setup?**
+
+A: Of course you can, but there is much to keep in mind since the map size and the amount of available places is far lower than Chernarus. Overall, if you plan to add more loot to the map, consider also adding additional buildings to the map to compensate.
+
+**Q: I would like to adjust date to have warmer/colder environment and/or longer/shorter days.**
+
+A: The answer is within the *init.c* file of your mission. Keep in mind that you are going to need to figure out different values for *serverTimeAcceleration* and *serverNightTimeAcceleration* within your server config to achieve a desired day:night ratio. Namalsk is positioned far north and the winter nights are really long!
+Default temperature (min/max per month) for Namalsk is defined as:
+
+> MAX{-12,  -8,  -3,   0,   2,   5,   7,  11,   8,   5,   2,  -8}
+
+> MIN{-32, -27, -21, -14,  -7,  -4,  -2,   2,  -3,  -7, -15, -25}
+
+Note: This only applies for servers running with Namalsk Survival! Namalsk terrain runs on default ChernarusPlus temperature values.
+
