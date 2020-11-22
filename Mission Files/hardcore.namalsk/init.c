@@ -30,16 +30,16 @@ void main()
 	  [Namalsk] Mission time init
 	   after CE init to determine if storage mission type is outside of the required time-frame
 	   currently recommended time-frame is:
-	    11/1 -> 3/31
-	    keep in mind that gameplay features are tied to the mission date (stored in the storage) and that it SHOULD remain this period!
+		11/1 -> 11/30
+		keep in mind that gameplay features are tied to the mission date (stored in the storage) and that it SHOULD remain this period!
 	   while using:
-	    day accelerated 6 times (serverTimeAcceleration=6), resulting in an average 78 min of day-time (RL)
-	    night accelerated 24 times (serverNightTimeAcceleration=4), resulting in an average of 26 min of night-time (RL)
+		day accelerated 6 times (serverTimeAcceleration=6), resulting in an average 78 min of day-time (RL)
+		night accelerated 24 times (serverNightTimeAcceleration=4), resulting in an average of 26 min of night-time (RL)
 	*/
 	int year, month, day, hour, minute;
 	GetGame().GetWorld().GetDate( year, month, day, hour, minute );
 
-    if ( ( month < 11 ) && ( month > 3 ) )
+    if ( ( month < 11 ) || ( month >= 12 ) )
     {
     	year = 2011;
         month = 11;
