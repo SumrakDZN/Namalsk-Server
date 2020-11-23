@@ -6,21 +6,16 @@ This repo contains all the necessary information and files for any Namalsk serve
 **You cannot monetize server that is running Namalsk Island / Namalsk Survival mods! This includes even things such as selling priority queue slots.**
 
 # Server Installation
-**Basic setup**
 
-1. Download DayZ and DayZ Server in your Steam.
-2. Subscribe to [Namalsk Island](https://media.tenor.com/images/78ed59c71a9472e868490638d61d23e6/tenor.gif) and [Namalsk Survival](https://media.tenor.com/images/78ed59c71a9472e868490638d61d23e6/tenor.gif) packages.
-3. Run DayZ Launcher from Steam and let it install Namalsk Island and Namalsk Survival.
-4. Go to DayZ Server install folder.
-5. Download key file from this repository (in folder called *Keys*) and place it into the keys folder.
-9. Download server config from this repository (in folder called *Server Config*) and place it in the root.
-7. Download a mission of choice (Regular/Hardcore) from this repository (in folder called *Mission Files*) and place it within the mpmissions folder. Make sure you verify that the mission folder name is also defined within the server config.
-8. Run the server with following: *DayZServer_x64.exe -config=serverNamalskCE.cfg -port=2302 "-mod=(path to your DayZ client installation)\\!Workshop\\@Namalsk Island;(path to your DayZ client installation)\\!Workshop\\@Namalsk Survival"*
-9. Visit **Frequently Asked Section** for details regarding the server configuration.
+**Basics**
+
+* Make sure you have up-to-date *@Namalsk Island* and *@Namalsk Survival* folders in your server root.
+* Copy *sumrak.bikey* from *Keys* folder to your server root *keys* folder.
+* Get the mission of choice alongside default server config from *Extras* folder in Survival mod.
 
 **Advanced setup**
 
-If you are running a dedicated machine with multiple DayZ servers, it is recommended to subscribe to Namalsk Island and Namalsk Survival server packages. These contain optimized pbo files for your server (to reduce loading times and memory load) and are present on unlisted Steam Workshop items available [here](https://media.tenor.com/images/78ed59c71a9472e868490638d61d23e6/tenor.gif) and [here](https://media.tenor.com/images/78ed59c71a9472e868490638d61d23e6/tenor.gif). Both public and unlisted (server) Namalsk Workshop entries will always be updated at the same time. If you want to use these, make sure you copy and paste standard (client) Island and Survival mods to your server folder, overwrite PBO files with the ones from the server packages (do not copy over cpp files) and adjust -mod= launch parameter accordingly.
+If you are running a dedicated machine with multiple DayZ servers, it is recommended to subscribe to Namalsk Island and Namalsk Survival server packages. These contain optimized pbo files for your server (to reduce loading times and memory load) and are present on unlisted Steam Workshop items available [here](https://media.tenor.com/images/78ed59c71a9472e868490638d61d23e6/tenor.gif) and [here](https://media.tenor.com/images/78ed59c71a9472e868490638d61d23e6/tenor.gif). Both public and unlisted (server) Namalsk Workshop entries will always be updated at the same time. In order to mask these files as the ones clients are running, you need to use meta.cpp files from the client mods.
 
 # Frequently Asked Questions (FAQ)
 **Q: Can I use Namalsk Island without Namalsk Survival and vice versa?**
@@ -45,11 +40,11 @@ A: Yes, quite possibly - using script *#ifdef NAMALSK_SURVIVAL* and/or *NAMALSK_
 
 **Q: What is the suggested player count for Namalsk?**
 
-A: From my experience, I would recommend setting the maximum to 30-40 players.
+A: From my experience, I would recommend setting the maximum of 30-40 players.
 
 **Q: Where can I find a default server config for Namalsk?**
 
-A: Look into the *Server Config* folder in this repository. The config is split into two sections (standard server params and custom Namalsk edits). If you are using your own custom server config, I very much do recommend to look into the default Namalsk one to check the params for your Namalsk server.
+A: Look into the *Server Config* folder in this repository. There are two available (for each difficulty) and each config is split into two sections (standard server params and custom Namalsk edits). If you are using your own custom server config, I very much do recommend to look into the default Namalsk one to check the params for your Namalsk server.
 
 **Q: Is there a dark and bright night lighting setup for Namalsk?**
 
@@ -57,11 +52,7 @@ A: Yes, use value *222* for dark and *223* for bright in your server config (*li
 
 **Q: Where can I find a default mission for Namalsk?**
 
-A: Look into the *Mission Files* folder in this repository. Namalsk has two missions available - Regular and Hardcore. Difference between these two are in the loot availability and the presence of vehicles.
-
-**Q: Can I use my own custom init.c?**
-
-A: Not recommended, build your own *init.c* from the ones that are included in this repository.
+A: Look into the *Mission Files* folder in this repository. Namalsk has two missions available - Regular and Hardcore. Difference between these two are in the loot availability , the presence of vehicles and base building options. **Keep in mind that these mission folders are only fully working in a combination with the Survival mod!**
 
 **Q: Where can I find a default CE Tool project files for Namalsk?**
 
@@ -74,6 +65,10 @@ A: Not entirely, Namalsk uses CE params in a different way than the vanilla terr
 **Q: Can I add new types to the existing vanilla Namalsk setup?**
 
 A: Of course you can, but there is much to keep in mind since the map size and the amount of available places is far lower than Chernarus. Overall, if you plan to add more loot to the map, consider also adding additional buildings to the map to compensate.
+
+**Q: I want to host only Namalsk Island. What should I do?**
+
+A: You can build your own mission from the *naked.namalsk* mission, available in this repository (look into *Mission Files*). **Keep in mind custom category/tags/container definition as mentioned above!**
 
 **Q: I would like to adjust date to have warmer/colder environment and/or longer/shorter days.**
 
