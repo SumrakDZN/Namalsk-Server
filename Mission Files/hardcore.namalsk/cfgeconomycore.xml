@@ -14,4 +14,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
 		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
 	</classes>
+	<ce folder="db">
+		<file name="types_dzn.xml" type="types" />
+	</ce>
 </economycore>
