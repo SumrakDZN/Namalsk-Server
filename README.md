@@ -52,7 +52,11 @@ A: Yes, use value *222* for dark and *223* for bright in your server config (*li
 
 **Q: Where can I find a default mission for Namalsk?**
 
-A: Look into the *Mission Files* folder in this repository. Namalsk has two missions available - Regular and Hardcore. Difference between these two are in the loot availability , the presence of vehicles and base building options. **Keep in mind that these mission folders are only fully working in a combination with the Survival mod!**
+A: Look into the *Mission Files* folder in this repository. Namalsk has two missions available - *Regular* and *Hardcore*. Difference between these two are in the loot availability , the presence of vehicles and base building options. **Keep in mind that these mission folders are only fully working in a combination with the Survival mod!**
+
+**Q: I want to host only Namalsk Island. Which mission should I use?**
+
+A: Use *Regular* or *Hardcore* mission and remove the include of *types_dzn.xml* from *cfgeconomycore.xml*. Doing this will stop spawning custom items from the *Survival* package.
 
 **Q: Where can I find a default CE Tool project files for Namalsk?**
 
@@ -65,10 +69,6 @@ A: Not entirely, Namalsk uses CE params in a different way than the vanilla terr
 **Q: Can I add new types to the existing vanilla Namalsk setup?**
 
 A: Of course you can, but there is much to keep in mind since the map size and the amount of available places is far lower than Chernarus. Overall, if you plan to add more loot to the map, consider also adding additional buildings to the map to compensate.
-
-**Q: I want to host only Namalsk Island. What should I do?**
-
-A: You can build your own mission from the *naked.namalsk* mission, available in this repository (look into *Mission Files*). **Keep in mind custom category/tags/container definition as mentioned above!**
 
 **Q: I would like to adjust date to have warmer/colder environment and/or longer/shorter days.**
 
