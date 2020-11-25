@@ -52,7 +52,11 @@ A: Yes, use value *222* for dark and *223* for bright in your server config (*li
 
 **Q: Where can I find a default mission for Namalsk?**
 
-A: Look into the *Mission Files* folder in this repository. Namalsk has two missions available - *Regular* and *Hardcore*. Difference between these two are in the loot availability , the presence of vehicles and base building options. **Keep in mind that these mission folders are only fully working in a combination with the Survival mod!**
+A: Look into the *Mission Files* folder in this repository. Namalsk has two missions available - *Regular* and *Hardcore*.
+
+**Q: What is the difference between the Regular and Hardcore missions?**
+
+A: They differ in the CE setup itself. The regular setup has a very basic vehicle setup, all base building options, fast lifetime values, higher food and weapon/ammo availbility. The hardcore setup has no vehicles, no base building options (except stashes and small tents), higher lifetime values, lower weapon/ammo availability.
 
 **Q: I want to host only Namalsk Island. Which mission should I use?**
 
