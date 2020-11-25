@@ -3,7 +3,7 @@
   <type name="dzn_Canteen">
     <nominal>15</nominal>
     <min>12</min>
-    <lifetime>7200</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>20</quantmin>
     <quantmax>60</quantmax>
@@ -18,7 +18,7 @@
   <type name="dzn_WaterBottle">
     <nominal>25</nominal>
     <min>20</min>
-    <lifetime>7200</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>20</quantmin>
     <quantmax>60</quantmax>
@@ -33,7 +33,7 @@
   <type name="dzn_SodaCan_Pipsi">
     <nominal>7</nominal>
     <min>6</min>
-    <lifetime>7200</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -46,7 +46,7 @@
   <type name="dzn_SodaCan_Cola">
     <nominal>7</nominal>
     <min>6</min>
-    <lifetime>7200</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -59,7 +59,7 @@
   <type name="dzn_SodaCan_Spite">
     <nominal>7</nominal>
     <min>6</min>
-    <lifetime>7200</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -72,7 +72,7 @@
   <type name="dzn_SodaCan_Kvass">
     <nominal>7</nominal>
     <min>6</min>
-    <lifetime>7200</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -85,7 +85,7 @@
   <type name="dzn_BakedBeansCan">
     <nominal>7</nominal>
     <min>6</min>
-    <lifetime>7200</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -98,7 +98,7 @@
   <type name="dzn_PeachesCan">
     <nominal>7</nominal>
     <min>6</min>
-    <lifetime>7200</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -111,7 +111,7 @@
   <type name="dzn_SardinesCan">
     <nominal>7</nominal>
     <min>8</min>
-    <lifetime>7200</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -124,7 +124,7 @@
   <type name="dzn_SpaghettiCan">
     <nominal>7</nominal>
     <min>6</min>
-    <lifetime>7200</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -137,7 +137,7 @@
   <type name="dzn_TunaCan">
     <nominal>15</nominal>
     <min>12</min>
-    <lifetime>7200</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -150,7 +150,7 @@
   <type name="dzn_Marmalade">
     <nominal>5</nominal>
     <min>4</min>
-    <lifetime>7200</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -163,7 +163,7 @@
   <type name="dzn_Pot">
     <nominal>12</nominal>
     <min>10</min>
-    <lifetime>5400</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>

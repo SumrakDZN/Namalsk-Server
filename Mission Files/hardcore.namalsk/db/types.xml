@@ -7397,7 +7397,7 @@
   <type name="WorkingGloves_Beige">
     <nominal>30</nominal>
     <min>24</min>
-    <lifetime>3600</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7413,7 +7413,7 @@
   <type name="WorkingGloves_Black">
     <nominal>30</nominal>
     <min>24</min>
-    <lifetime>3600</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7429,7 +7429,7 @@
   <type name="WorkingGloves_Brown">
     <nominal>30</nominal>
     <min>24</min>
-    <lifetime>3600</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7445,7 +7445,7 @@
   <type name="WorkingGloves_Yellow">
     <nominal>30</nominal>
     <min>24</min>
-    <lifetime>3600</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7461,7 +7461,7 @@
   <type name="TacticalGloves_Beige">
     <nominal>8</nominal>
     <min>6</min>
-    <lifetime>3600</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7475,7 +7475,7 @@
   <type name="TacticalGloves_Black">
     <nominal>8</nominal>
     <min>6</min>
-    <lifetime>3600</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7489,7 +7489,7 @@
   <type name="TacticalGloves_Green">
     <nominal>8</nominal>
     <min>6</min>
-    <lifetime>3600</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7503,7 +7503,7 @@
   <type name="NBCGlovesGray">
     <nominal>8</nominal>
     <min>6</min>
-    <lifetime>3600</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7517,7 +7517,7 @@
   <type name="SurgicalGloves_Blue">
     <nominal>5</nominal>
     <min>4</min>
-    <lifetime>3600</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7531,7 +7531,7 @@
   <type name="SurgicalGloves_LightBlue">
     <nominal>5</nominal>
     <min>4</min>
-    <lifetime>3600</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7545,7 +7545,7 @@
   <type name="SurgicalGloves_Green">
     <nominal>5</nominal>
     <min>4</min>
-    <lifetime>3600</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7559,7 +7559,7 @@
   <type name="SurgicalGloves_White">
     <nominal>5</nominal>
     <min>4</min>
-    <lifetime>3600</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7573,7 +7573,7 @@
   <type name="OMNOGloves_Gray">
     <nominal>8</nominal>
     <min>6</min>
-    <lifetime>3600</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7587,7 +7587,7 @@
   <type name="OMNOGloves_Brown">
     <nominal>8</nominal>
     <min>6</min>
-    <lifetime>3600</lifetime>
+    <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
