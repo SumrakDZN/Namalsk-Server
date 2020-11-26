@@ -61,7 +61,8 @@ class CustomMission: MissionServer
 		{
 			// enable/disable event system, min time between events, max time between events
             m_EventManagerServer.OnInitServer( true, 600, 800 );
-            // registering events and their probability
+            // Register possible events along with their probability (0..1)
+	    // any custom events MUST inherit from EventBase, otherwise they will fail to load!
             m_EventManagerServer.RegisterEvent( Aurora, 1.0 );
             m_EventManagerServer.RegisterEvent( Blizzard, 0.5 );
             m_EventManagerServer.RegisterEvent( ExtremeCold, 0.4 );
