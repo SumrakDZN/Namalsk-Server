@@ -3,7 +3,7 @@ Welcome to the Namalsk Server Files repo.
 This repo contains all the necessary information and files for any Namalsk server hoster.
 
 # WARNING
-**You cannot monetize server that is running Namalsk Island / Namalsk Survival mods! This includes even things such as selling priority queue slots.**
+**You cannot monetize any server that is running Namalsk Island / Namalsk Survival mods! This includes even things such as selling priority queue slots.**
 
 # Server Installation
 
@@ -87,4 +87,4 @@ Note: This only applies for servers running with Namalsk Survival! Namalsk terra
 
 **Q: I need help with something I could not find in this FAQ section.**
 
-A: Join us at [official Namalsk discord](https://discord.com/invite/gK7HRDN) and request Server Hoster role in #create-ticket channel.
+A: Join us at our Official Namalsk [Discord](https://discord.com/invite/gK7HRDN) and request Server Hoster role in #create-ticket channel.
