@@ -87,4 +87,4 @@ Note: This only applies for servers running with Namalsk Survival! Namalsk terra
 
 **Q: I need help with something I could not find in this FAQ section.**
 
-A: Join us at our Official Namalsk [Discord](https://discord.com/invite/gK7HRDN) and request Server Hoster role in #create-ticket channel.
+A: Join us at our Official Namalsk [Discord](https://discord.com/invite/gK7HRDN) and request Server Hoster role in *#create-ticket* channel.
