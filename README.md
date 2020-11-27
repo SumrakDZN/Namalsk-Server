@@ -56,7 +56,7 @@ A: Look into the *Mission Files* folder in this repository. Namalsk has two miss
 
 **Q: What is the difference between the Regular and Hardcore missions?**
 
-A: They differ in the CE setup itself. The regular setup has a very basic vehicle setup, all base building options, fast lifetime values, higher food and weapon/ammo availbility. The hardcore setup has no vehicles, no base building options (except stashes and small tents), higher lifetime values, lower weapon/ammo availability.
+A: They differ in the CE setup itself. The regular setup has a very basic vehicle setup, all base building options, fast lifetime values, higher food and weapon/ammo availbility and Novemember temperature values. The hardcore setup has no vehicles, no base building options (except stashes and small tents), higher lifetime values, lower weapon/ammo availability and December temperature values.
 
 **Q: I want to host only Namalsk Island. Which mission should I use?**
 
