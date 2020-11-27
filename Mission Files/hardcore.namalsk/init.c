@@ -39,10 +39,10 @@ void main()
 	int year, month, day, hour, minute;
 	GetGame().GetWorld().GetDate( year, month, day, hour, minute );
 
-    if ( ( month < 11 ) || ( month >= 12 ) )
+    if ( month < 12 )
     {
     	year = 2011;
-        month = 11;
+        month = 12;
         day = 1;
 		
 		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
