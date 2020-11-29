@@ -24,7 +24,7 @@ void main()
 	weather.SetWindMaximumSpeed( 30 );
 	weather.SetWindFunctionParams( 0.1, 1.0, 42 );
 	weather.SetStorm( 0, 1, 1 );
-	weather.SetRainThresholds( 0.5, 1.0, 30 );
+	weather.SetRainThresholds( 0.0, 1.0, 0 );
 
 	/*
 	  [Namalsk] Mission time init
