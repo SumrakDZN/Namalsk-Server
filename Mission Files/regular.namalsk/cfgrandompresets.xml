@@ -43,16 +43,15 @@
 	</cargo>
 
 	<cargo chance="0.25" name="toolsmedic">
-		<item name="Heatpack" chance="0.10" />
+		<item name="Heatpack" chance="0.13" />
 		<item name="SewingKit" chance="0.10" />
 		<item name="BandageDressing" chance="0.10" />
 		<item name="BloodTestKit" chance="0.12" />
 		<item name="BloodBagEmpty" chance="0.12" />
-		<item name="SalineBag" chance="0.08" />
+		<item name="SalineBag" chance="0.10" />
 		<item name="StartKitIV" chance="0.08" />
 		<item name="Morphine" chance="0.05" />
 		<item name="PainkillerTablets" chance="0.05" />
-		<item name="DexamphetamineTablets" chance="0.05" />
 		<item name="Epinephrine" chance="0.05" />
 		<item name="TetracyclineAntibiotics" chance="0.05" />
 		<item name="SalineBagIV" chance="0.05" />

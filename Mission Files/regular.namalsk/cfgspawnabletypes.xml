@@ -269,15 +269,6 @@
             <item name="Mag_Saiga_Drum20Rnd" chance="0.10" />
         </attachments>
     </type>
-    <type name="dzn_cz550">
-        <attachments chance="0.30">
-            <item name="dzn_mag_cz550_4rnd" chance="0.60" />
-            <item name="dzn_mag_cz550_10rnd" chance="0.40" />
-        </attachments>
-        <attachments chance="0.20">
-            <item name="HuntingOptic" chance="1.00" />
-        </attachments>
-    </type>
 
 
     <!-- NAMALSK - WEAPONS - PISTOLS -->
