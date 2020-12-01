@@ -42,7 +42,7 @@
 		<item name="Epinephrine" chance="0.05" />
 	</cargo>
 
-	<cargo chance="0.25" name="toolsmedic">
+	<cargo chance="0.20" name="toolsmedic">
 		<item name="Heatpack" chance="0.13" />
 		<item name="SewingKit" chance="0.10" />
 		<item name="BandageDressing" chance="0.10" />
@@ -68,7 +68,7 @@
 		<item name="HandcuffKeys" chance="0.10" />
 	</cargo>
 
-	<cargo chance="0.15" name="ammocivil">
+	<cargo chance="0.10" name="ammocivil">
 		<item name="Ammo_380" chance="0.15" />
 		<item name="AmmoBox_380_35rnd" chance="0.10" />
 		<item name="Ammo_9x19" chance="0.15" />
@@ -79,7 +79,7 @@
 		<item name="AmmoBox_12gaSlug_10Rnd" chance="0.10" />
 	</cargo>
 
-	<cargo chance="0.15" name="ammopolice">
+	<cargo chance="0.10" name="ammopolice">
 		<item name="Ammo_380" chance="0.20" />
 		<item name="AmmoBox_380_35rnd" chance="0.15" />
 		<item name="Ammo_9x19" chance="0.20" />
@@ -88,14 +88,14 @@
 		<item name="AmmoBox_45acp_25rnd" chance="0.10" />
 	</cargo>
 
-	<cargo chance="0.15" name="ammohunting">
+	<cargo chance="0.10" name="ammohunting">
 		<item name="Ammo_762x39" chance="0.30" />
 		<item name="AmmoBox_762x39_20Rnd" chance="0.20" />
 		<item name="Ammo_762x54" chance="0.30" />
 		<item name="AmmoBox_762x54_20Rnd" chance="0.20" />
 	</cargo>
 
-	<cargo chance="0.15" name="ammomilitary">
+	<cargo chance="0.10" name="ammomilitary">
 		<item name="Ammo_556x45" chance="0.10" />
 		<item name="AmmoBox_556x45_20Rnd" chance="0.10" />
 		<item name="Ammo_762x39" chance="0.25" />
@@ -165,7 +165,7 @@
 		<item name="BallisticHelmet_Black" chance="0.40" />-->
 		<item name="dzn_milberet_black" chance="0.10" />
 	</attachments>
-	<attachments chance="0.55" name="vestsNAC">
+	<attachments chance="0.25" name="vestsNAC">
 		<item name="HighCapacityVest_Black" chance="0.25" />
 		<item name="dzn_highcapacityvest_nac" chance="0.25" />
 		<item name="dzn_smershvest_black" chance="0.25" />
@@ -176,7 +176,7 @@
 		<!--<item name="Mich2001Helmet" chance="0.80" />-->
 		<item name="dzn_milberet_green" chance="0.20" />
 	</attachments>
-	<attachments chance="0.55" name="vestsUS">
+	<attachments chance="0.25" name="vestsUS">
 		<item name="UKAssVest_Camo" chance="0.25" />
 		<item name="UKAssVest_Khaki" chance="0.25" />
 		<item name="UKAssVest_Olive" chance="0.25" />
@@ -189,7 +189,7 @@
 		<item name="dzn_milberet_green" chance="0.10" />
 		<item name="dzn_milberet_specnaz" chance="0.10" />
 	</attachments>
-	<attachments chance="0.55" name="vestsRU">
+	<attachments chance="0.25" name="vestsRU">
 		<item name="HighCapacityVest_Olive" chance="0.50" />
 		<item name="SmershVest" chance="0.50" />
 	</attachments>
