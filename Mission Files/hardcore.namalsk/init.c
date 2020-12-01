@@ -30,7 +30,7 @@ void main()
 	  [Namalsk] Mission time init
 	   after CE init to determine if storage mission type is outside of the required time-frame
 	   currently recommended time-frame is:
-		11/1 -> 11/30
+		12/1 -> 12/31
 		keep in mind that gameplay features are tied to the mission date (stored in the storage) and that it SHOULD remain this period!
 	   while using:
 		day accelerated 6 times (serverTimeAcceleration=6), resulting in an average 78 min of day-time (RL)
