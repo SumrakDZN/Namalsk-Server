@@ -15,7 +15,7 @@ This repo contains all the necessary information and files for any Namalsk serve
 
 **Advanced setup**
 
-If you are running a dedicated machine with multiple DayZ servers, it is recommended to subscribe to Namalsk Island and Namalsk Survival server packages. These contain optimized pbo files for your server (to reduce loading times and memory load) and are present on unlisted Steam Workshop items available [here](https://media.tenor.com/images/78ed59c71a9472e868490638d61d23e6/tenor.gif) and [here](https://media.tenor.com/images/78ed59c71a9472e868490638d61d23e6/tenor.gif). Both public and unlisted (server) Namalsk Workshop entries will always be updated at the same time. In order to mask these files as the ones clients are running, you need to use meta.cpp files from the client mods.
+If you are running a dedicated machine with multiple DayZ servers, it is recommended to subscribe to Namalsk Island and Namalsk Survival server packages. These contain optimized pbo files for your server (to reduce loading times and memory load) and are present on unlisted Steam Workshop items available [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2288339650) and [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2288336145). Both public and unlisted (server) Namalsk Workshop entries will always be updated at the same time. In order to mask these files as the ones clients are running, you need to use meta.cpp files from the client mods (ids are *2289456201* for island and *2289461232* for survival pack).
 
 # Frequently Asked Questions (FAQ)
 **Q: Can I use Namalsk Island without Namalsk Survival and vice versa?**
