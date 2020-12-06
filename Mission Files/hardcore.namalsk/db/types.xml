@@ -3510,21 +3510,6 @@
     <tag name="civilian" />
     <tag name="hunting" />
   </type>
-  <type name="TireRepairKit">
-    <nominal>20</nominal>
-    <min>17</min>
-    <lifetime>5400</lifetime>
-    <restock>0</restock>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
-    <category name="tools" />
-    <tag name="civilian" />
-    <tag name="industrial" />
-  </type>
   <type name="Whetstone">
     <nominal>20</nominal>
     <min>15</min>
