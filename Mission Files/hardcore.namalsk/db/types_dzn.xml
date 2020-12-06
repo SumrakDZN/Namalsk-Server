@@ -334,8 +334,8 @@
     <tag name="military" />
   </type>
   <type name="dzn_yeger_up_woodl">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>3</nominal>
+    <min>1</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -488,8 +488,8 @@
     <tag name="military" />
   </type>
   <type name="dzn_yeger_pants_woodl">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>3</nominal>
+    <min>1</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -742,8 +742,8 @@
     <tag name="military" />
   </type>
   <type name="dzn_yegerhood_woodl">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>3</nominal>
+    <min>1</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
