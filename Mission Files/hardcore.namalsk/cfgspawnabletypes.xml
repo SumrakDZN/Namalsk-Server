@@ -163,7 +163,7 @@
             <item name="Mag_CMAG_40Rnd" chance="0.15" />
             <item name="Mag_STANAGCoupled_30Rnd" chance="0.10" />
         </attachments>
-        <attachments chance="1.0">
+        <attachments chance="0.1">
             <item name="M9A1_Bayonet" chance="0.50" />
             <item name="M4_Suppressor" chance="0.50" />
         </attachments>
