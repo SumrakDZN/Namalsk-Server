@@ -2907,10 +2907,10 @@
     <tag name="industrial" />
   </type>
   <type name="Fabric">
-    <nominal>60</nominal>
+    <nominal>35</nominal>
     <lifetime>5400</lifetime>
     <restock>0</restock>
-    <min>45</min>
+    <min>30</min>
     <quantmin>30</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
