@@ -3842,8 +3842,8 @@
     <tag name="military" />
   </type>
   <type name="Megaphone">
-    <nominal>30</nominal>
-    <min>25</min>
+    <nominal>15</nominal>
+    <min>10</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
