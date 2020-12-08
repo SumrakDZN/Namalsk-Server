@@ -31,7 +31,7 @@
     <tag name="civilian" />
   </type>
   <type name="dzn_SodaCan_Pipsi">
-    <nominal>7</nominal>
+    <nominal>8</nominal>
     <min>6</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
@@ -44,7 +44,7 @@
     <category name="food" />
   </type>
   <type name="dzn_SodaCan_Cola">
-    <nominal>7</nominal>
+    <nominal>8</nominal>
     <min>6</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
@@ -57,7 +57,7 @@
     <category name="food" />
   </type>
   <type name="dzn_SodaCan_Spite">
-    <nominal>7</nominal>
+    <nominal>8</nominal>
     <min>6</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
@@ -70,7 +70,7 @@
     <category name="food" />
   </type>
   <type name="dzn_SodaCan_Kvass">
-    <nominal>7</nominal>
+    <nominal>8</nominal>
     <min>6</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
@@ -83,7 +83,7 @@
     <category name="food" />
   </type>
   <type name="dzn_BakedBeansCan">
-    <nominal>7</nominal>
+    <nominal>6</nominal>
     <min>6</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
@@ -96,7 +96,7 @@
     <category name="food" />
   </type>
   <type name="dzn_PeachesCan">
-    <nominal>7</nominal>
+    <nominal>6</nominal>
     <min>6</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
@@ -109,8 +109,8 @@
     <category name="food" />
   </type>
   <type name="dzn_SardinesCan">
-    <nominal>7</nominal>
-    <min>8</min>
+    <nominal>6</nominal>
+    <min>6</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -122,7 +122,7 @@
     <category name="food" />
   </type>
   <type name="dzn_SpaghettiCan">
-    <nominal>7</nominal>
+    <nominal>6</nominal>
     <min>6</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
@@ -135,8 +135,8 @@
     <category name="food" />
   </type>
   <type name="dzn_TunaCan">
-    <nominal>15</nominal>
-    <min>12</min>
+    <nominal>10</nominal>
+    <min>8</min>
     <lifetime>900</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>

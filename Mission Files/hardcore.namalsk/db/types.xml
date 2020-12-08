@@ -2528,8 +2528,8 @@
   
   <!-- NAMALSK - FOOD N DRINKS -->
   <type name="BoxCerealCrunchin">
-    <nominal>8</nominal>
-    <min>6</min>
+    <nominal>5</nominal>
+    <min>4</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -2541,8 +2541,8 @@
     <category name="food" />
   </type>
   <type name="PowderedMilk">
-    <nominal>10</nominal>
-    <min>7</min>
+    <nominal>6</nominal>
+    <min>6</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -2554,8 +2554,8 @@
     <category name="food" />
   </type>
   <type name="Rice">
-    <nominal>7</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>4</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
