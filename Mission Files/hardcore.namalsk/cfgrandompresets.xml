@@ -6,8 +6,7 @@
 		<item name="SteakKnife" chance="0.025" />
 		<item name="CanOpener" chance="0.025" />
 		<item name="Matchbox" chance="0.15" />
-		<item name="Battery9V" chance="0.10" />
-		<item name="SparkPlug" chance="0.05" />
+		<item name="Battery9V" chance="0.15" />
 		<item name="Headtorch_Black" chance="0.05" />
 		<item name="Headtorch_Grey" chance="0.05" />
 		<item name="Flashlight" chance="0.05" />
