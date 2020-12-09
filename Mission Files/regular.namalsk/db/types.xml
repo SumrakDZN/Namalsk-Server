@@ -9466,8 +9466,8 @@
     <tag name="military" />
   </type>
   <type name="NVGoggles">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
     <quantmin>-1</quantmin>

@@ -9002,7 +9002,7 @@
     <tag name="military" />
   </type>
   <type name="NVGoggles">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
