@@ -9225,7 +9225,6 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_C130J" lootmax="10">
-				<trace force="yes" />
 				<container name="Inside" lootmax="8">
 						<category name="pistols" />
 						<category name="weapons" />
@@ -9253,7 +9252,6 @@
 				</container>
 		</group>
 		<group name="land_sea_subB" lootmax="22">
-				<trace force="yes" />
 				<container name="InsideMilitary" lootmax="9">
 						<category name="pistols" />
 						<category name="weapons" />
