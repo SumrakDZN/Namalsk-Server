@@ -10578,8 +10578,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="GhillieBushrag_Woodland">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>2</nominal>
+    <min>2</min>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
     <quantmin>-1</quantmin>
@@ -10600,7 +10600,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="GhillieTop_Woodland">
-    <nominal>3</nominal>
+    <nominal>2</nominal>
     <min>2</min>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -10622,7 +10622,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="GhillieSuit_Woodland">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>1800</lifetime>
     <restock>3600</restock>
@@ -10644,8 +10644,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="GhillieHood_Woodland">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>2</nominal>
+    <min>2</min>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
     <quantmin>-1</quantmin>

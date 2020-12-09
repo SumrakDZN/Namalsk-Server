@@ -883,8 +883,8 @@
     <tag name="military" />
   </type>
   <type name="dzn_ghilliebushragwinter">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
     <quantmin>-1</quantmin>
@@ -897,8 +897,8 @@
     <tag name="military" />
   </type>
   <type name="dzn_ghilliebushragtandark">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>2</nominal>
+    <min>2</min>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
     <quantmin>-1</quantmin>
@@ -911,7 +911,7 @@
     <tag name="military" />
   </type>
   <type name="dzn_ghillietopwinter">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -925,7 +925,7 @@
     <tag name="military" />
   </type>
   <type name="dzn_ghillietoptandark">
-    <nominal>3</nominal>
+    <nominal>2</nominal>
     <min>2</min>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -939,7 +939,7 @@
     <tag name="military" />
   </type>  
   <type name="dzn_ghilliesuitwinter">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>1800</lifetime>
     <restock>3600</restock>
@@ -954,7 +954,7 @@
   </type>
   <type name="dzn_ghilliesuittandark">
     <nominal>2</nominal>
-    <min>1</min>
+    <min>2</min>
     <lifetime>1800</lifetime>
     <restock>3600</restock>
     <quantmin>-1</quantmin>
@@ -967,7 +967,7 @@
     <tag name="military" />
   </type>
   <type name="dzn_ghilliehoodwinter">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
@@ -981,8 +981,8 @@
     <tag name="military" />
   </type>
   <type name="dzn_ghilliehoodtandark">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>2</nominal>
+    <min>2</min>
     <lifetime>1800</lifetime>
     <restock>1800</restock>
     <quantmin>-1</quantmin>
