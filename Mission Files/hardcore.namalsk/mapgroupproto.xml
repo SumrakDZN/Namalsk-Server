@@ -1296,15 +1296,15 @@
 				<container name="Inside" lootmax="4">
 						<category name="weapons" />
 						<tag name="military" />
-						<point pos="-4.629761 -1.478091 1.165435" range="0.134375" height="0.335938" />
-						<point pos="-5.358154 -1.474183 1.239744" range="0.134375" height="0.335938" />
-						<point pos="-3.433105 -1.697941 0.351317" range="0.346466" height="0.866165" flags="32" />
-						<point pos="-6.118652 -1.697941 1.103635" range="0.352814" height="0.882034" flags="32" />
-						<point pos="-1.844971 -1.697941 0.199554" range="0.382843" height="0.957107" flags="32" />
-						<point pos="-2.653320 -1.697941 0.109741" range="0.430481" height="1.311188" flags="32" />
-						<point pos="-5.702636 -1.697941 0.199890" range="0.562158" height="1.312824" flags="32" />
-						<point pos="-4.502441 -1.697941 0.152374" range="0.638977" height="1.496754" flags="32" />
-						<point pos="2.150391 -1.697941 0.690094" range="1.199951" height="0.469932" flags="32" />
+						<point pos="-4.629761 -1.278091 1.165435" range="0.134375" height="0.335938" />
+						<point pos="-5.358154 -1.274183 1.239744" range="0.134375" height="0.335938" />
+						<point pos="-3.433105 -1.497941 0.351317" range="0.346466" height="0.866165" />
+						<point pos="-6.118652 -1.497941 1.103635" range="0.352814" height="0.882034" />
+						<point pos="-1.844971 -1.497941 0.199554" range="0.382843" height="0.957107" />
+						<point pos="-2.653320 -1.497941 0.109741" range="0.430481" height="1.311188" />
+						<point pos="-5.702636 -1.497941 0.199890" range="0.562158" height="1.312824" />
+						<point pos="-4.502441 -1.497941 0.152374" range="0.638977" height="1.496754" />
+						<point pos="2.150391 -1.497941 0.690094" range="1.199951" height="0.469932" flags="32" />
 				</container>
 				<container name="Rifles" lootmax="2">
 						<category name="rifles" />
@@ -1315,7 +1315,6 @@
 		</group>
 		<group name="land_wrecked_mi8_frozen">
 				<container name="Outside" lootmax="4">
-						<category name="pistols" />
 						<category name="tools" />
 						<category name="clothes" />
 						<category name="containers" />
@@ -1332,15 +1331,15 @@
 				<container name="Inside" lootmax="4">
 						<category name="weapons" />
 						<tag name="military" />
-						<point pos="-4.629761 -1.478091 1.165435" range="0.134375" height="0.335938" />
-						<point pos="-5.358154 -1.474183 1.239744" range="0.134375" height="0.335938" />
-						<point pos="-3.433105 -1.697941 0.351317" range="0.346466" height="0.866165" flags="32" />
-						<point pos="-6.118652 -1.697941 1.103635" range="0.352814" height="0.882034" flags="32" />
-						<point pos="-1.844971 -1.697941 0.199554" range="0.382843" height="0.957107" flags="32" />
-						<point pos="-2.653320 -1.697941 0.109741" range="0.430481" height="1.311188" flags="32" />
-						<point pos="-5.702636 -1.697941 0.199890" range="0.562158" height="1.312824" flags="32" />
-						<point pos="-4.502441 -1.697941 0.152374" range="0.638977" height="1.496754" flags="32" />
-						<point pos="2.150391 -1.697941 0.690094" range="1.199951" height="0.469932" flags="32" />
+						<point pos="-4.629761 -1.278091 1.165435" range="0.134375" height="0.335938" />
+						<point pos="-5.358154 -1.274183 1.239744" range="0.134375" height="0.335938" />
+						<point pos="-3.433105 -1.497941 0.351317" range="0.346466" height="0.866165" />
+						<point pos="-6.118652 -1.497941 1.103635" range="0.352814" height="0.882034" />
+						<point pos="-1.844971 -1.497941 0.199554" range="0.382843" height="0.957107" />
+						<point pos="-2.653320 -1.497941 0.109741" range="0.430481" height="1.311188" />
+						<point pos="-5.702636 -1.497941 0.199890" range="0.562158" height="1.312824" />
+						<point pos="-4.502441 -1.497941 0.152374" range="0.638977" height="1.496754" />
+						<point pos="2.150391 -1.497941 0.690094" range="1.199951" height="0.469932" flags="32" />
 				</container>
 				<container name="Rifles" lootmax="2">
 						<category name="rifles" />
