@@ -3169,6 +3169,20 @@
     <tag name="farm" />
     <tag name="civilian" />
   </type>
+  <type name="GardenLime">
+    <nominal>10</nominal>
+    <min>8</min>
+    <lifetime>2700</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="farm" />
+  </type>
   <type name="MediumTent">
     <nominal>5</nominal>
     <min>4</min>
