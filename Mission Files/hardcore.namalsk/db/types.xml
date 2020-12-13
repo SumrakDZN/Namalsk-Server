@@ -1086,10 +1086,10 @@
     <tag name="military" />
   </type>
   <type name="Ammo_FlareRed">
-    <nominal>40</nominal>
+    <nominal>30</nominal>
     <lifetime>5400</lifetime>
     <restock>300</restock>
-    <min>35</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
