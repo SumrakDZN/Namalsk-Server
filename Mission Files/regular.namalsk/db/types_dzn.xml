@@ -278,10 +278,10 @@
     <tag name="military" />
   </type>
   <type name="dzn_apsi">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
+    <restock>1800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
