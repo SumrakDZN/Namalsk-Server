@@ -1421,7 +1421,7 @@
     <category name="weapons" />
     <tag name="military" />
   </type>
-  <type name="Mag_DE_9rnd">
+  <type name="Mag_Deagle_9rnd">
     <nominal>5</nominal>
     <min>3</min>
     <lifetime>2700</lifetime>

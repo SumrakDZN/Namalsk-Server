@@ -310,7 +310,7 @@
     </type>
     <type name="Deagle">
         <attachments chance="0.60">
-            <item name="Mag_DE_9rnd" chance="1.00" />
+            <item name="Mag_Deagle_9rnd" chance="1.00" />
         </attachments>
         <attachments chance="0.50">
             <item name="PistolOptic" chance="1.00" />
@@ -321,7 +321,7 @@
     </type>
     <type name="Deagle_Gold">
         <attachments chance="0.90">
-            <item name="Mag_DE_9rnd" chance="1.00" />
+            <item name="Mag_Deagle_9rnd" chance="1.00" />
         </attachments>
         <attachments chance="0.75">
             <item name="PistolOptic" chance="1.00" />
