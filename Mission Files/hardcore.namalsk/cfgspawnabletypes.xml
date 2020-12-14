@@ -272,7 +272,7 @@
 
 
     <!-- NAMALSK - WEAPONS - PISTOLS -->
-    <type name="1911">
+    <type name="Colt1911">
         <attachments chance="0.80">
             <item name="Mag_1911_7Rnd" chance="1.00" />
         </attachments>
