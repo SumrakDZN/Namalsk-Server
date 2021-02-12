@@ -3166,7 +3166,6 @@
     <category name="tools" />
     <tag name="industrial" />
     <tag name="farm" />
-    <tag name="civilian" />
   </type>
   <type name="GardenLime">
     <nominal>10</nominal>
