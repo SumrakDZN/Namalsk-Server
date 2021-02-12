@@ -967,10 +967,10 @@
     <tag name="military" />
   </type>
   <type name="Ammo_9x39">
-    <nominal>3</nominal>
+    <nominal>4</nominal>
     <lifetime>5400</lifetime>
     <restock>1800</restock>
-    <min>2</min>
+    <min>3</min>
     <quantmin>25</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -981,10 +981,10 @@
     <tag name="military" />
   </type>
   <type name="Ammo_9x39AP">
-    <nominal>3</nominal>
+    <nominal>4</nominal>
     <lifetime>5400</lifetime>
     <restock>1800</restock>
-    <min>2</min>
+    <min>3</min>
     <quantmin>25</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -1392,10 +1392,10 @@
     <tag name="military" />
   </type>
   <type name="AmmoBox_9x39_20Rnd">
-    <nominal>2</nominal>
+    <nominal>3</nominal>
     <lifetime>5400</lifetime>
     <restock>1800</restock>
-    <min>2</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -1406,10 +1406,10 @@
     <tag name="military" />
   </type>
   <type name="AmmoBox_9x39AP_20Rnd">
-    <nominal>2</nominal>
+    <nominal>3</nominal>
     <lifetime>5400</lifetime>
     <restock>1800</restock>
-    <min>2</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
