@@ -8964,14 +8964,14 @@
 						<category name="clothes" />
 						<tag name="industrial" />
 						<point pos="-2.604980 -0.442233 -2.089844" range="0.203125" height="0.507793" />
-						<point pos="-0.008301 -0.714442 1.568848" range="0.203125" height="0.507793" />
+						<point pos="1.507812 -1.293538 -1.299561" range="1.178223" height="1.949670" />
 						<point pos="-3.268554 -0.714442 -1.892578" range="0.271875" height="0.679668" />
 						<point pos="1.257813 -0.837122 0.802734" range="0.271875" height="0.679665" />
 						<point pos="2.083984 -0.228084 1.320313" range="0.302246" height="0.755596" />
 						<point pos="0.009277 -1.293538 0.470703" range="0.867188" height="1.949670" />
 						<point pos="-2.775391 -1.293538 0.371582" range="1.040039" height="1.949670" />
 						<point pos="-1.269043 -1.293538 -1.324463" range="1.153320" height="1.949670" />
-						<point pos="1.507812 -1.293538 -1.299561" range="1.178223" height="1.949670" />
+						<point pos="0.133179 -0.253295 1.412109" range="0.306250" height="0.765625" />
 				</container>
 		</group>
 		<group name="Land_Workshop2" lootmax="4">
