@@ -455,7 +455,11 @@
             <item name="Battery9V" chance="1.00" />
         </attachments>
     </type>
-    
+    <type name="FishingRod">
+        <attachments chance="0.50">
+        </attachments>
+    </type>
+
 
     <!-- NAMALSK - CLOTHES - TOPS -->
     <type name="GorkaEJacket_Summer">
