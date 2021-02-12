@@ -2581,7 +2581,6 @@
     <usage />
     <value />
     <category name="tools" />
-    <tag name="civilian" />
     <tag name="medical" />
   </type>
   <type name="DisinfectantSpray">
