@@ -1435,12 +1435,12 @@
 
     <!-- NAMALSK - CLOTHES - HEADGEAR -->
     <type name="Mich2001Helmet">
-        <attachments chance="0.05">
+        <attachments chance="0.02">
             <item name="NVGoggles" chance="1.00" />
         </attachments>
     </type>
     <type name="NVGHeadstrap">
-        <attachments chance="0.05">
+        <attachments chance="0.02">
             <item name="NVGoggles" chance="1.00" />
         </attachments>
     </type>
