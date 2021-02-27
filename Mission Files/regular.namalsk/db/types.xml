@@ -11,7 +11,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier3" />
+    <value user="Tier4" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -25,7 +25,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+    <value user="Tier3" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -39,7 +39,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+    <value user="Tier4" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -102,8 +102,8 @@
     <tag name="hunting" />
   </type>
   <type name="FAL">
-    <nominal>4</nominal>
-    <min>3</min>
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
     <quantmin>-1</quantmin>
@@ -111,7 +111,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+    <value user="Tier5" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -140,7 +140,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+    <value user="Tier5" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -227,7 +227,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+    <value user="Tier4" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -261,16 +261,16 @@
     <tag name="military" />
   </type>
   <type name="ASVAL">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>2700</lifetime>
     <restock>1800</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+    <value user="Tier5" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -328,7 +328,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+    <value user="Tier34" />
     <category name="rifles" />
     <tag name="military" />
   </type>
