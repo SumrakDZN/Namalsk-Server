@@ -572,7 +572,7 @@
         <cargo preset="toolshunting" />
         <cargo preset="ammohunting" />
     </type>
-    <type name="Raincoat_Orange">>
+    <type name="Raincoat_Orange">
         <cargo preset="toolsgeneral" />
     </type>
     <type name="Raincoat_Green">
@@ -1021,7 +1021,7 @@
     </type>
     <type name="CanvasPants_Grey">
         <cargo preset="toolsgeneral" />
-    </type>>
+    </type>
     <type name="CanvasPants_Red">
         <cargo preset="toolsgeneral" />
     </type>
