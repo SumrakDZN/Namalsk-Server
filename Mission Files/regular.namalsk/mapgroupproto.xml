@@ -9896,9 +9896,8 @@
 						<point pos="2.622375 13.181114 -5.473145" range="0.340625" height="0.851563" />
 				</container>
 				<container name="StorageLab" lootmax="5">
-						<category name="tools" />
-						<category name="clothes" />
-						<tag name="medical" />
+						<category name="food" />
+						<tag name="civilian" />
 						<point pos="-2.408020 1.959583 -4.384613" range="0.269592" height="0.186649" />
 						<point pos="-2.407166 2.614540 -4.430359" range="0.268738" height="0.671844" />
 						<point pos="-2.502868 2.428921 -3.024720" range="0.364441" height="0.911102" />
