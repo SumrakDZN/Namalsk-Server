@@ -95,7 +95,10 @@ class CustomMission: MissionServer
 
 			itemEnt = itemClothing.GetInventory().CreateInInventory( "Rag" );
 			if ( Class.CastTo( itemBs, itemEnt ) )
-				itemBs.SetQuantity( 4 );
+			{
+				itemBs.SetQuantity( 2 );
+				itemBs.SetCleanness( 1 );
+			}
 			player.SetQuickBarEntityShortcut( itemEnt, 0 );
 
 			SetRandomHealth( itemEnt );
