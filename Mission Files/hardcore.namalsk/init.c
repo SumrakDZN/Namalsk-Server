@@ -96,7 +96,7 @@ class CustomMission: MissionServer
 			itemEnt = itemClothing.GetInventory().CreateInInventory( "Rag" );
 			if ( Class.CastTo( itemBs, itemEnt ) )
 			{
-				itemBs.SetQuantity( 2 );
+				itemBs.SetQuantity( 4 );
 				itemBs.SetCleanness( 1 );
 			}
 			player.SetQuickBarEntityShortcut( itemEnt, 0 );
