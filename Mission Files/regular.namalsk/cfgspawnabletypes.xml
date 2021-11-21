@@ -186,6 +186,35 @@
             <item name="Mag_FAMAS_25Rnd" chance="1.00" />
         </attachments>
     </type>
+    <type name="AugShort">
+        <attachments chance="1.00">
+            <item name="Mag_Aug_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Aug">
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="0.30" />
+            <item name="BUISOptic" chance="0.24" />
+            <item name="ReflexOptic" chance="0.20" />
+            <item name="M4_T3NRDSOptic" chance="0.10" />
+            <item name="M68Optic" chance="0.10" />
+            <item name="ACOGOptic" chance="0.06" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_CMAG_10Rnd" chance="0.10" />
+            <item name="Mag_CMAG_20Rnd" chance="0.15" />
+            <item name="Mag_STANAG_30Rnd" chance="0.25" />
+            <item name="Mag_CMAG_30Rnd" chance="0.25" />
+            <item name="Mag_CMAG_40Rnd" chance="0.15" />
+            <item name="Mag_STANAG_60Rnd" chance="0.10" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="M4_Suppressor" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="UniversalLight" chance="1.00" />
+        </attachments>
+    </type>
     <type name="Mosin9130">
         <attachments chance="0.30">
             <item name="Mosin_Compensator" chance="0.50" />
@@ -1551,6 +1580,64 @@
     <!-- NAMALSK - CLOTHES - SHOES -->
     <!-- none require special care -->
 
+
+    <!-- NAMALSK - CONTAINERS - GIFT BOXES -->
+    <type name="GiftBox_Small_1">
+        <cargo preset="Gifts_AmmoBoxes" />
+        <cargo preset="Gifts_SmallMags" />
+        <cargo preset="Gifts_SmallModules" />
+    </type>
+    <type name="GiftBox_Small_2">
+        <cargo preset="Gifts_Explosives" />
+    </type>
+    <type name="GiftBox_Small_3">
+        <cargo preset="Gifts_Food" />
+    </type>
+    <type name="GiftBox_Small_4">
+        <cargo preset="Gifts_SmallClothes" />
+    </type>
+    <type name="GiftBox_Medium_1">
+        <cargo preset="Gifts_MedMags" />
+        <cargo preset="Gifts_Optics" />
+    </type>
+    <type name="GiftBox_Medium_2">
+        <cargo preset="Gifts_Optics" />
+        <cargo preset="Gifts_SmallMags" />
+        <cargo preset="Gifts_SmallModules" />
+    </type>
+    <type name="GiftBox_Medium_3">
+        <cargo preset="Gifts_Explosives" />
+        <cargo preset="Gifts_RepairKits" />
+        <cargo preset="Gifts_MediumClothes" />
+    </type>
+    <type name="GiftBox_Medium_4">
+        <cargo preset="Gifts_BigMags" />
+        <cargo preset="Gifts_RepairKits" />
+        <cargo preset="Gifts_SmallModules" />
+    </type>
+    <type name="GiftBox_Large_1">
+        <cargo preset="Gifts_BigMags" />
+        <cargo preset="Gifts_MedMags" />
+        <cargo preset="Gifts_MediumClothes" />
+        <cargo preset="Gifts_Food" />
+    </type>
+    <type name="GiftBox_Large_2">
+        <cargo preset="Gifts_BigMags" />
+        <cargo preset="Gifts_MedMags" />
+        <cargo preset="Gifts_BigModules" />
+    </type>
+    <type name="GiftBox_Large_3">
+        <cargo preset="Gifts_Optics" />
+        <cargo preset="Gifts_BigMags" />
+        <cargo preset="Gifts_SmallModules" />
+    </type>
+    <type name="GiftBox_Large_4">
+        <cargo preset="Gifts_Optics" />
+        <cargo preset="Gifts_MedMags" />
+        <cargo preset="Gifts_BigModules" />
+    </type>
+
+
     <!-- NAMALSK - VEHICLES -->
     <type name="OffroadHatchback">
         <attachments chance="1.00">
@@ -2313,5 +2400,10 @@
         <cargo chance="0.33">
             <item name="GasMask_Filter" chance="1.00" />
         </cargo>
+    </type>
+    <type name="ZmbM_Santa">
+        <attachments chance="1.00">
+            <item name="SantasHat" chance="1.00" />
+        </attachments>
     </type>
 </spawnabletypes>
