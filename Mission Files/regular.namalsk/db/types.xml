@@ -10187,8 +10187,8 @@
     <tag name="industrial" />
   </type>
   <type name="SantasHat">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -10446,8 +10446,8 @@
     <tag name="civilian" />
   </type>
   <type name="SantasBeard">
-    <nominal>8</nominal>
-    <min>5</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
