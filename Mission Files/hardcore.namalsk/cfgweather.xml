@@ -1,3 +1,4 @@
+<!-- Default Namalsk weather init, do not change if you are using the event system -->
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <weather reset="1" enable="1">
     <overcast>

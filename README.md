@@ -48,7 +48,7 @@ A: Look into the *Server Config* folder in this repository. There are two availa
 
 **Q: Is there a dark and bright night lighting setup for Namalsk?**
 
-A: Yes, use value *222* for dark and *223* for bright in your server config (*lightingConfig* parameter).
+A: Yes, use value *222* for dark and *223* for bright in your server config (*lightingConfig* parameter). If your server is using *cfgGameplay.json*, do not forget to adjust it there (it takes priority over the server config value).
 
 **Q: Where can I find a default mission for Namalsk?**
 
