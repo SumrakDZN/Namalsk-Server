@@ -14,7 +14,8 @@
             <item name="AK_PlasticHndgrd" chance="0.34" />
         </attachments>
         <attachments chance="0.30">
-            <item name="Mag_AK74_30Rnd" chance="1.00" />
+            <item name="Mag_AK74_30Rnd" chance="0.90" />
+            <item name="Mag_AK74_45Rnd" chance="0.10" />
         </attachments>
         <attachments chance="0.20">
             <item name="KobraOptic" chance="0.50" />
@@ -38,7 +39,8 @@
             <item name="AK_PlasticHndgrd" chance="0.34" />
         </attachments>
         <attachments chance="0.30">
-            <item name="Mag_AK74_30Rnd" chance="1.00" />
+            <item name="Mag_AK74_30Rnd" chance="0.90" />
+            <item name="Mag_AK74_45Rnd" chance="0.10" />
         </attachments>
         <attachments chance="0.20">
             <item name="KobraOptic" chance="0.50" />
@@ -61,7 +63,7 @@
             <item name="AK_PlasticHndgrd" chance="0.34" />
         </attachments>
         <attachments chance="0.30">
-            <item name="Mag_AK74_30Rnd" chance="1.00" />
+            <item name="Mag_AK101_30Rnd" chance="1.00" />
         </attachments>
         <attachments chance="0.20">
             <item name="KobraOptic" chance="0.50" />

@@ -3848,8 +3848,8 @@
     <tag name="fishing" />
   </type>
   <type name="GiftBox_Large_1">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3863,8 +3863,8 @@
     <tag name="civilian" />
   </type>
   <type name="GiftBox_Large_2">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3878,8 +3878,8 @@
     <tag name="civilian" />
   </type>
   <type name="GiftBox_Large_3">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3893,8 +3893,8 @@
     <tag name="civilian" />
   </type>
   <type name="GiftBox_Large_4">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3908,8 +3908,8 @@
     <tag name="civilian" />
   </type>
   <type name="GiftBox_Medium_1">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3923,7 +3923,7 @@
     <tag name="civilian" />
   </type>
   <type name="GiftBox_Medium_2">
-    <nominal>3</nominal>
+    <nominal>0</nominal>
     <min>2</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
@@ -3938,8 +3938,8 @@
     <tag name="civilian" />
   </type>
   <type name="GiftBox_Medium_3">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3953,8 +3953,8 @@
     <tag name="civilian" />
   </type>
   <type name="GiftBox_Medium_4">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3968,8 +3968,8 @@
     <tag name="civilian" />
   </type>
   <type name="GiftBox_Small_1">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3983,8 +3983,8 @@
     <tag name="civilian" />
   </type>
   <type name="GiftBox_Small_2">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3998,8 +3998,8 @@
     <tag name="civilian" />
   </type>
   <type name="GiftBox_Small_3">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -4013,8 +4013,8 @@
     <tag name="civilian" />
   </type>
   <type name="GiftBox_Small_4">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -10187,8 +10187,8 @@
     <tag name="industrial" />
   </type>
   <type name="SantasHat">
-    <nominal>8</nominal>
-    <min>5</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -10446,8 +10446,8 @@
     <tag name="civilian" />
   </type>
   <type name="SantasBeard">
-    <nominal>8</nominal>
-    <min>5</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
