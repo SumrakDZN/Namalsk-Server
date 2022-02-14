@@ -106,6 +106,20 @@
             <item name="HuntingOptic" chance="1.00" />
         </attachments>
     </type>
+    <type name="PP19">
+        <attachments chance="1.00">
+            <item name="PP19_Bttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="0.40">
+            <item name="Mag_PP19_64Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="KobraOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="PistolSuppressor" chance="1.00" />
+        </attachments>
+    </type>
     <type name="CZ61">
         <attachments chance="0.40">
             <item name="Mag_CZ61_20Rnd" chance="1.00" />
