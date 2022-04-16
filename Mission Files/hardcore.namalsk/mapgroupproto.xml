@@ -8212,13 +8212,14 @@
 						<category name="weapons" />
 						<tag name="civilian" />
 						<tag name="hunting" />
-						<point pos="-0.493471 -4.542992 7.707946" range="0.244319" height="1.281250" />
-						<point pos="0.377747 -1.596291 9.168029" range="0.306250" height="0.765625" />
-						<point pos="0.573001 -6.113092 9.733153" range="0.581250" height="0.998100" />
-						<point pos="0.392640 -4.542992 7.828858" range="0.650000" height="1.625000" />
+						<point pos="-0.493470 -4.542992 7.707947" range="0.244319" height="1.281250" />
+						<point pos="-0.051879 -7.407391 6.304993" range="0.974670" height="2.000000" />
+						<point pos="0.573002 -6.113092 9.733153" range="0.581250" height="0.998100" />
+						<point pos="0.392640 -4.542992 7.828856" range="0.650000" height="1.625000" />
 						<point pos="1.932800 -7.407391 10.124694" range="0.700134" height="1.750336" />
-						<point pos="-0.051880 -7.407391 6.304993" range="0.974670" height="2.000000" />
-						<point pos="-1.573853 -7.407391 9.728882" range="0.752258" height="1.880646" />
+						<point pos="-1.573851 -7.407391 9.728882" range="0.752258" height="1.880646" />
+						<point pos="1.786257 -7.407391 7.856934" range="0.857902" height="2.000000" />
+						<point pos="-1.740904 -7.407391 8.060547" range="0.907044" height="2.000000" />
 				</container>
 		</group>
 		<group name="Land_Power_Station" lootmax="6">

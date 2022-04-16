@@ -115,6 +115,20 @@
     <category name="rifles" />
     <tag name="hunting" />
   </type>
+  <type name="CZ550">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>7200</lifetime>
+    <restock>300</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier234" />
+    <category name="rifles" />
+    <tag name="hunting" />
+  </type>
   <type name="FAL">
     <nominal>1</nominal>
     <min>1</min>
@@ -576,6 +590,34 @@
     <category name="pistols" />
     <tag name="civilian" />
   </type>
+  <type name="P1">
+    <nominal>7</nominal>
+    <lifetime>7200</lifetime>
+    <restock>100</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier1" />
+    <category name="pistols" />
+    <tag name="civilian" />
+  </type>
+  <type name="LongHorn">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier12" />
+    <category name="pistols" />
+    <tag name="hunting" />
+  </type>
 
   <!-- NAMALSK - WEAPONS - EXPLOSIVES -->
   <type name="RGD5Grenade">
@@ -880,6 +922,20 @@
     <tag name="farm" />
   </type>
   <type name="FarmingHoe">
+    <nominal>8</nominal>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="farm" />
+  </type>
+  <type name="Pitchfork">
     <nominal>8</nominal>
     <lifetime>5400</lifetime>
     <restock>0</restock>
@@ -1676,6 +1732,20 @@
     <tag name="civilian" />
     <tag name="police" />
   </type>
+  <type name="Mag_P1_8Rnd">
+    <nominal>5</nominal>
+    <min>3</min>
+    <lifetime>5400</lifetime>
+    <restock>300</restock>
+    <quantmin>25</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier1" />
+    <category name="weapons" />
+    <tag name="civilian" />
+  </type>
   <type name="Mag_MP5_15Rnd">
     <nominal>4</nominal>
     <min>3</min>
@@ -1846,6 +1916,21 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
     <value user="Tier1" />
+    <category name="weapons" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+  </type>
+  <type name="Mag_CZ550_10rnd">
+    <nominal>5</nominal>
+    <min>4</min>
+    <lifetime>5400</lifetime>
+    <restock>300</restock>
+    <quantmin>25</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier234" />
     <category name="weapons" />
     <tag name="civilian" />
     <tag name="hunting" />
@@ -4037,6 +4122,20 @@
     <category name="tools" />
     <tag name="civilian" />
   </type>
+  <type name="KitchenTimer">
+    <nominal>6</nominal>
+    <min>4</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+  </type>
   <type name="Compass">
     <nominal>20</nominal>
     <min>15</min>
@@ -4483,6 +4582,21 @@
     <value />
     <category name="tools" />
     <tag name="civilian" />
+  </type>
+  <type name="Cleaver">
+    <nominal>20</nominal>
+    <min>15</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="farm" />
   </type>
   <type name="SledgeHammer">
     <nominal>25</nominal>
@@ -11007,6 +11121,10 @@
     <lifetime>5400</lifetime> 
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
+  <type name="BoneKnife">
+    <lifetime>5400</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
   <type name="WoodenStick">
     <lifetime>900</lifetime> 
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
@@ -11017,6 +11135,10 @@
   </type>
   <type name="Bark_Birch">
     <lifetime>900</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="CookingStand">
+    <lifetime>3600</lifetime> 
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="LongWoodenStick">
@@ -11044,11 +11166,11 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="FireplaceIndoor">
-    <lifetime>604800‬</lifetime> 
+    <lifetime>604800</lifetime> 
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="OvenIndoor">
-    <lifetime>604800‬</lifetime> 
+    <lifetime>604800</lifetime> 
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="Paper">
@@ -11071,7 +11193,11 @@
     <lifetime>5400</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
-  <type name="Spear">
+  <type name="SpearBone">
+    <lifetime>3600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="SpearStone">
     <lifetime>3600</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
@@ -11171,6 +11297,10 @@
     <lifetime>28800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
+  <type name="GasMask_Filter_Improvised">
+    <lifetime>3600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
   <type name="Rag">
     <lifetime>3600</lifetime> 
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
@@ -11204,7 +11334,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="UndergroundStash">
-    <lifetime>604800‬</lifetime>
+    <lifetime>604800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
   <type name="Armband_Black">
@@ -11236,6 +11366,34 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
   <type name="Armband_Yellow">
+    <lifetime>3600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="RopeBelt">
+    <lifetime>3600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="FaceCover_Improvised">
+    <lifetime>3600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="FeetCover_Improvised">
+    <lifetime>3600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="HandsCover_Improvised">
+    <lifetime>3600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="HeadCover_Improvised">
+    <lifetime>3600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="TorsoCover_Improvised">
+    <lifetime>3600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+  </type>
+  <type name="LegsCover_Improvised">
     <lifetime>3600</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
