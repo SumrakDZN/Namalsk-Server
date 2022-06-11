@@ -931,52 +931,52 @@
         <cargo preset="toolsgeneral" />
         <cargo preset="ammocivil" />
     </type>
-    <type name="ManSuitJacket_Beige">
+    <type name="ManSuit_Beige">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="ManSuitJacket_Black">
+    <type name="ManSuit_Black">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="ManSuitJacket_Blue">
+    <type name="ManSuit_Blue">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="ManSuitJacket_Brown">
+    <type name="ManSuit_Brown">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="ManSuitJacket_DarkGrey">
+    <type name="ManSuit_DarkGrey">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="ManSuitJacket_Khaki">
+    <type name="ManSuit_Khaki">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="ManSuitJacket_LightGrey">
+    <type name="ManSuit_LightGrey">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="ManSuitJacket_White">
+    <type name="ManSuit_White">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="WomanSuitJacket_Beige">
+    <type name="WomanSuit_Beige">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="WomanSuitJacket_Black">
+    <type name="WomanSuit_Black">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="WomanSuitJacket_Blue">
+    <type name="WomanSuit_Blue">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="WomanSuitJacket_Brown">
+    <type name="WomanSuit_Brown">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="WomanSuitJacket_DarkGrey">
+    <type name="WomanSuit_DarkGrey">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="WomanSuitJacket_Khaki">
+    <type name="WomanSuit_Khaki">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="WomanSuitJacket_LightGrey">
+    <type name="WomanSuit_LightGrey">
         <cargo preset="toolsgeneral" />
     </type>
-    <type name="WomanSuitJacket_White">
+    <type name="WomanSuit_White">
         <cargo preset="toolsgeneral" />
     </type>
     <type name="dzn_gorka_up_winter">
@@ -2373,15 +2373,6 @@
         <cargo preset="ammomilitary" />
         <attachments preset="headsRU" />
         <attachments preset="vestsRU" />
-    </type>
-    <type name="ZmbM_SurvivorDean_Black">
-        <cargo preset="toolsgeneral" />
-    </type>
-    <type name="ZmbM_SurvivorDean_Blue">
-        <cargo preset="toolsgeneral" />
-    </type>
-    <type name="ZmbM_SurvivorDean_Grey">
-        <cargo preset="toolsgeneral" />
     </type>
     <type name="ZmbM_usSoldier_Officer_Desert">
         <cargo preset="toolsmilitary" />
