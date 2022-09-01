@@ -10363,4 +10363,16 @@
 						<point pos="-0.564277 -1.795883 -2.646985" range="0.837598" height="2.000000" flags="32" />
 				</container>
 		</group>
+		<group name="sea_oilrig_lifeboat" lootmax="5">
+				<container name="Around" lootmax="5">
+						<category name="lantia" />
+						<tag name="seaice" />
+						<point pos="1.850495 -1.091999 2.203735" range="1.199997" height="2.000000" flags="32" />
+						<point pos="1.788788 -1.091999 -0.780151" range="0.919739" height="0.345330" flags="32" />
+						<point pos="1.034546 -1.091999 -3.112365" range="1.151811" height="2.000000" flags="32" />
+						<point pos="-1.584137 -1.091999 -1.827393" range="1.199997" height="2.000000" flags="32" />
+						<point pos="-1.665741 -1.091999 0.673218" range="1.199997" height="1.369589" flags="32" />
+						<point pos="-1.390565 -1.091999 2.574524" range="0.721119" height="0.283440" flags="32" />
+				</container>
+		</group>
 </prototype>

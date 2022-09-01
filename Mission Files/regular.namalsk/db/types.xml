@@ -12314,6 +12314,10 @@
     <lifetime>3600</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
+  <type name="sea_oilrig_lifeboat">
+    <lifetime>2500</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" /> 
+  </type>
 
 
   <!-- DE support - infected -->

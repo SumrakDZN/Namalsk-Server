@@ -482,18 +482,18 @@
     <tag />
   </type>
   <type name="dzn_phoenix_log_5">
-    <nominal>0</nominal>
-    <min>0</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="1" />
     <usage />
     <value />
-    <category name="lore" />
-    <tag />
+    <category name="lantia" />
+    <tag name="seaice" />
   </type>
   <type name="dzn_phoenix_stash">
     <nominal>0</nominal>
