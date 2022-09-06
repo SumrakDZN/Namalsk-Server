@@ -168,8 +168,8 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
-    <category name="rifles" />
+    <value user="Tier7" />
+    <category name="lantia" />
     <tag name="military" />
   </type>
   <type name="M16A2">
@@ -224,7 +224,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+    <value user="Tier5" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -238,8 +238,8 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
-    <category name="rifles" />
+    <value user="Tier7" />
+    <category name="lantia" />
     <tag name="military" />
   </type>
   <type name="Mosin9130">
@@ -325,7 +325,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+    <value user="Tier5" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -368,7 +368,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
+    <value user="Tier4" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -637,7 +637,7 @@
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>1</min>
-    <quantmin>100</quantmin>
+    <quantmin>0</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
@@ -651,7 +651,7 @@
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>1</min>
-    <quantmin>100</quantmin>
+    <quantmin>0</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
@@ -665,7 +665,7 @@
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <min>1</min>
-    <quantmin>100</quantmin>
+    <quantmin>0</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
@@ -854,8 +854,8 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier6" />
-    <category />
+    <value user="Tier67" />
+    <category name="lantia" />
     <tag name="military" />
   </type>
   <type name="Ammo_40mm_Smoke_Black">
@@ -2046,8 +2046,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_AKM_Drum75Rnd">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>2700</lifetime>
     <restock>1800</restock>
     <quantmin>20</quantmin>
@@ -2055,8 +2055,8 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
-    <category name="weapons" />
+    <value user="Tier67" />
+    <category name="lantia" />
     <tag name="military" />
   </type>
   <type name="Mag_AKM_Palm30Rnd">
@@ -2127,8 +2127,8 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
-    <category name="weapons" />
+    <value user="Tier67" />
+    <category name="lantia" />
     <tag name="military" />
   </type>
   <type name="Mag_CMAG_10Rnd">
@@ -2183,8 +2183,8 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier45" />
-    <category name="weapons" />
+    <value user="Tier67" />
+    <category name="lantia" />
     <tag name="military" />
   </type>
   <type name="Mag_FAMAS_25Rnd">
@@ -2253,8 +2253,8 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
-    <category name="weapons" />
+    <value user="Tier67" />
+    <category name="lantia" />
     <tag name="military" />
   </type>
   <type name="Mag_SVD_10Rnd">
@@ -2267,7 +2267,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+    <value user="Tier45" />
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2324,7 +2324,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
+    <value user="Tier4" />
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -2469,8 +2469,8 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
-    <category name="weapons" />
+    <value user="Tier67" />
+    <category name="lantia" />
     <tag name="military" />
   </type>
   <type name="AK_Suppressor">
@@ -2483,8 +2483,8 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
-    <category name="weapons" />
+    <value user="Tier67" />
+    <category name="lantia" />
     <tag name="military" />
   </type>
   <type name="PistolSuppressor">
@@ -11701,6 +11701,14 @@
     <lifetime>3600</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
+  <type name="SawedoffMagnum">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="SawedoffB95">
+    <lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
   <type name="ImprovisedSuppressor">
     <lifetime>2700</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
@@ -14263,6 +14271,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools" />
     <tag name="industrial" />
   </type>
   <type name="Hatchback_02_Wheel_Ruined">
@@ -14368,6 +14377,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools" />
     <tag name="industrial" />
   </type>
   <type name="Sedan_02_Wheel_Ruined">
@@ -14508,6 +14518,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools" />
     <tag name="industrial" />
   </type>
   <type name="Truck_01_Wheel_Ruined">
@@ -14523,6 +14534,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools" />
     <tag name="industrial" />
   </type>
   <type name="Truck_01_WheelDouble_Ruined">

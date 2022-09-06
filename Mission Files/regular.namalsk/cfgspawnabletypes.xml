@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
-    <damage min="0.3" max="0.7" />
+    <damage min="0.3" max="1.0" />
     <!-- NAMALSK - WEAPONS - RIFLES -->
     <type name="AK74">
         <attachments chance="1.00">
@@ -546,7 +546,14 @@
             <item name="StartKitIV" chance="0.34" />
         </cargo>
     </type>
-
+    <type name="dzn_FirstAidKit">
+        <cargo chance="1.00">
+            <item name="SalineBagIV" chance="1.00" />
+        </cargo>
+        <cargo chance="1.00">
+            <item name="Epinephrine" chance="1.00" />
+        </cargo>
+    </type>
 
     <!-- NAMALSK - MISC ITEMS -->
     <type name="WaterproofBag_Yellow">
@@ -1386,10 +1393,10 @@
         <cargo preset="magsmilitary" />
     </type>
     <type name="dzn_platecarriervest_nac">
-        <attachments chance="1.00">
+        <attachments chance="0.50">
             <item name="dzn_platecarrierholster_nac" chance="1.00" />
         </attachments>
-        <attachments chance="1.00">
+        <attachments chance="0.25">
             <item name="dzn_platecarrierpouches_nac" chance="1.00" />
         </attachments>
         <cargo preset="toolsmilitary" />
