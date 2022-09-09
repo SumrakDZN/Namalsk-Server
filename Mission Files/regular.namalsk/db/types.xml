@@ -224,7 +224,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
+    <value user="Tier4" />
     <category name="rifles" />
     <tag name="military" />
   </type>

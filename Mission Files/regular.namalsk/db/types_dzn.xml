@@ -596,14 +596,15 @@
     <nominal>1</nominal>
     <min>1</min>
     <lifetime>2700</lifetime>
-    <restock>0</restock>
+    <restock>600</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
     <value user="Tier3" />
-    <category name="lore" />
+    <category name="tools" />
+    <tag name="seaice" />
   </type>
   <type name="dzn_module_surge">
     <nominal>1</nominal>
@@ -631,7 +632,6 @@
     <usage />
     <value user="Tier3" />
     <category name="lore" />
-    <tag name="seaice" />
   </type>
   <type name="dzn_module_ext2">
     <nominal>1</nominal>
