@@ -1753,6 +1753,21 @@
     <type name="Ammo_FlareRed">
         <damage min="0.0" max="0.35" />
     </type>
+    <type name="dzn_module_card">
+        <damage min="0.0" max="0.0" />
+    </type>
+    <type name="dzn_module_lantia">
+        <damage min="0.0" max="0.0" />
+    </type>
+    <type name="dzn_module_surge">
+        <damage min="0.0" max="0.0" />
+    </type>
+    <type name="dzn_lehs_o2tank">
+        <damage min="0.0" max="0.0" />
+    </type>
+    <type name="dzn_lehs_battery">
+        <damage min="0.0" max="0.0" />
+    </type>
 
     <!-- NAMALSK - CONTAINERS - GIFT BOXES -->
     <type name="GiftBox_Small_1">

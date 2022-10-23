@@ -243,16 +243,16 @@
     <tag name="military" />
   </type>
   <type name="Mosin9130">
-    <nominal>10</nominal>
+    <nominal>8</nominal>
     <lifetime>3600</lifetime>
     <restock>300</restock>
-    <min>8</min>
+    <min>5</min>
     <quantmin>0</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier12" />
+    <value user="Tier23" />
     <category name="rifles" />
     <tag name="civilian" />
     <tag name="hunting" />

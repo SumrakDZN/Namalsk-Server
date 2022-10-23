@@ -1753,6 +1753,21 @@
     <type name="Ammo_FlareRed">
         <damage min="0.0" max="0.35" />
     </type>
+    <type name="dzn_module_card">
+        <damage min="0.0" max="0.0" />
+    </type>
+    <type name="dzn_module_lantia">
+        <damage min="0.0" max="0.0" />
+    </type>
+    <type name="dzn_module_surge">
+        <damage min="0.0" max="0.0" />
+    </type>
+    <type name="dzn_lehs_o2tank">
+        <damage min="0.0" max="0.0" />
+    </type>
+    <type name="dzn_lehs_battery">
+        <damage min="0.0" max="0.0" />
+    </type>
     <!-- specific to regular setup -->
     <type name="SparkPlug">
         <damage min="0.0" max="0.35" />
@@ -1841,16 +1856,16 @@
         <attachments chance="1.00">
             <item name="HatchbackWheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.95">
+        <attachments chance="1.00">
             <item name="HatchbackWheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.90">
+        <attachments chance="1.00">
             <item name="HatchbackWheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.85">
+        <attachments chance="1.00">
             <item name="HatchbackWheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.40">
+        <attachments chance="1.00">
             <item name="HatchbackWheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
@@ -1886,16 +1901,16 @@
         <attachments chance="1.00">
             <item name="CivSedanWheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.95">
+        <attachments chance="1.00">
             <item name="CivSedanWheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.90">
+        <attachments chance="1.00">
             <item name="CivSedanWheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.85">
+        <attachments chance="1.00">
             <item name="CivSedanWheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.40">
+        <attachments chance="1.00">
             <item name="CivSedanWheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
@@ -1937,16 +1952,16 @@
         <attachments chance="1.00">
             <item name="Hatchback_02_Wheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.95">
+        <attachments chance="1.00">
             <item name="Hatchback_02_Wheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.90">
+        <attachments chance="1.00">
             <item name="Hatchback_02_Wheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.85">
+        <attachments chance="1.00">
             <item name="Hatchback_02_Wheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.40">
+        <attachments chance="1.00">
             <item name="Hatchback_02_Wheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
@@ -1988,16 +2003,16 @@
         <attachments chance="1.00">
             <item name="Sedan_02_Wheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.95">
+        <attachments chance="1.00">
             <item name="Sedan_02_Wheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.90">
+        <attachments chance="1.00">
             <item name="Sedan_02_Wheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.85">
+        <attachments chance="1.00">
             <item name="Sedan_02_Wheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.40">
+        <attachments chance="1.00">
             <item name="Sedan_02_Wheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
@@ -2078,16 +2093,16 @@
         <attachments chance="1.00">
             <item name="Offroad_02_Wheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.95">
+        <attachments chance="1.00">
             <item name="Offroad_02_Wheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.90">
+        <attachments chance="1.00">
             <item name="Offroad_02_Wheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.85">
+        <attachments chance="1.00">
             <item name="Offroad_02_Wheel" chance="1.00" />
         </attachments>
-        <attachments chance="0.30">
+        <attachments chance="1.00">
             <item name="Offroad_02_Wheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
