@@ -357,6 +357,9 @@
             <item name="Mag_SSG82_5rnd" chance="1.00" />
         </attachments>
     </type>
+    <type name="Crossbow_Autumn" />
+    <type name="Crossbow_Black" />
+    <type name="Crossbow_Wood" />
 
 
     <!-- NAMALSK - WEAPONS - PISTOLS -->

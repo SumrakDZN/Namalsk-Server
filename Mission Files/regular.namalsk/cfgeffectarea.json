@@ -22,6 +22,29 @@
 				"TinyPartName": "nst/ns_dayz/effects/particles/contaminated_underground_tiny",
 				"PPERequesterType": "PPERequester_NamContamination"
 			}
+		},
+        { 	"AreaName": "Athena-3 Tunnels", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTriggerNam",
+			"Data": { 
+				"Pos": [ 3601, 53, 6608 ],
+				"Radius": 150,
+				"PosHeight": 67,
+				"NegHeight": 12,
+				"InnerRingCount": 0,
+				"InnerPartDist": 0,
+				"OuterRingToggle": 0, 
+				"OuterPartDist": 0, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "nst/ns_dayz/effects/particles/contaminated_underground_bigone"
+				},
+			"PlayerData": {
+				"AroundPartName": "nst/ns_dayz/effects/particles/contaminated_underground_around",
+				"TinyPartName": "nst/ns_dayz/effects/particles/contaminated_underground_tiny",
+				"PPERequesterType": "PPERequester_NamContamination"
+			}
 		}
     ],
 

@@ -129,6 +129,45 @@
     <category name="rifles" />
     <tag name="hunting" />
   </type>
+  <type name="Crossbow_Autumn">
+    <nominal>3</nominal>
+    <min>2</min>
+    <lifetime>3600</lifetime>
+    <restock>300</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <category name="rifles" />
+    <tag name="hunting" />
+  </type>
+  <type name="Crossbow_Black">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>3600</lifetime>
+    <restock>300</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <category name="rifles" />
+    <tag name="hunting" />
+  </type>
+  <type name="Crossbow_Wood">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>3600</lifetime>
+    <restock>300</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <category name="rifles" />
+    <tag name="hunting" />
+  </type>
   <type name="FAL">
     <nominal>2</nominal>
     <min>1</min>
@@ -973,6 +1012,20 @@
   </type>
 
   <!-- NAMALSK - WEAPONS - BOLT/ARROW -->
+  <type name="Ammo_HuntingBolt">
+    <nominal>30</nominal>
+    <lifetime>2700</lifetime>
+    <restock>0</restock>
+    <min>25</min>
+    <quantmin>20</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="weapons" />
+    <tag name="hunting" />
+  </type>
 
   <!-- NAMALSK - WEAPONS - MELEE -->
   <type name="WoodAxe">
@@ -3482,8 +3535,8 @@
 
   <!-- NAMALSK - MISC ITEMS -->
   <type name="GasMask_Filter">
-    <nominal>40</nominal>
-    <min>35</min>
+    <nominal>25</nominal>
+    <min>20</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3632,8 +3685,8 @@
     <tag name="industrial" />
   </type>
   <type name="Blowtorch">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>8</nominal>
+    <min>6</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -3762,6 +3815,20 @@
     <category name="tools" />
     <tag name="farm" />
     <tag name="industrial" />
+  </type>
+  <type name="ChickenFeather">
+    <nominal>30</nominal>
+    <min>25</min>
+    <lifetime>2700</lifetime>
+    <restock>0</restock>
+    <quantmin>70</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="farm" />
   </type>
   <type name="Camonet">
     <nominal>40</nominal>
@@ -5133,8 +5200,8 @@
     <tag name="industrial" />
   </type>
   <type name="BearTrap">
-    <nominal>20</nominal>
-    <min>15</min>
+    <nominal>12</nominal>
+    <min>10</min>
     <lifetime>1209600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -9249,6 +9316,105 @@
     <category name="clothes" />
     <tag name="military" />
   </type>
+  <type name="WoolGloves_Black">
+    <nominal>4</nominal>
+    <min>2</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="clothes" />
+    <tag name="hunting" />
+  </type>
+  <type name="WoolGloves_Green">
+    <nominal>4</nominal>
+    <min>2</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="clothes" />
+    <tag name="hunting" />
+  </type>
+  <type name="WoolGloves_Tan">
+    <nominal>4</nominal>
+    <min>2</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="clothes" />
+    <tag name="hunting" />
+  </type>
+  <type name="WoolGloves_White">
+    <nominal>4</nominal>
+    <min>2</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="clothes" />
+    <tag name="hunting" />
+  </type>
+  <type name="WoolGlovesFingerless_Black">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="clothes" />
+    <tag name="hunting" />
+  </type>
+  <type name="WoolGlovesFingerless_Green">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="clothes" />
+    <tag name="hunting" />
+  </type>
+  <type name="WoolGlovesFingerless_Tan">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>900</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="clothes" />
+    <tag name="hunting" />
+  </type>
+
 
   <!-- NAMALSK - CLOTHES - HEADGEAR -->
   <type name="BallisticHelmet_Green">
@@ -12556,10 +12722,6 @@
     <lifetime>900</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
-  <type name="Lard">
-    <lifetime>1800</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-  </type>
   <type name="GoatPelt">
     <lifetime>1800</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
@@ -12620,7 +12782,14 @@
     <lifetime>2700</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
-
+  <type name="Ammo_ImprovisedBolt_1">
+    <lifetime>2700</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="Ammo_ImprovisedBolt_2">
+    <lifetime>2700</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
 
   <!-- DE support -->
   <type name="PileOfWoodenPlanks">
