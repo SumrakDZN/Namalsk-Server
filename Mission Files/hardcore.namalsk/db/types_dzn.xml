@@ -1182,7 +1182,7 @@
     <tag name="military" />
   </type>
   <type name="dzn_bagtortilla_white">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
@@ -1196,7 +1196,7 @@
     <tag name="military" />
   </type>
   <type name="dzn_assaultbag_winter">
-    <nominal>3</nominal>
+    <nominal>2</nominal>
     <min>1</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
@@ -1210,8 +1210,8 @@
     <tag name="military" />
   </type>
   <type name="dzn_smershbackpack_white">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -1224,8 +1224,8 @@
     <tag name="military" />
   </type>
   <type name="dzn_smershbackpack_black">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -1238,7 +1238,7 @@
     <tag name="military" />
   </type>
   <type name="dzn_coyotebag_white">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
@@ -1252,7 +1252,7 @@
     <tag name="military" />
   </type>
   <type name="dzn_alicebag_wintercamo">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>7200</lifetime>
     <restock>0</restock>
@@ -1261,7 +1261,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+    <value user="Tier4" />
     <category name="bags" />
     <tag name="military" />
   </type>

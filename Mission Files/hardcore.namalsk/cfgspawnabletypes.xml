@@ -1440,6 +1440,57 @@
 
 
     <!-- NAMALSK - CLOTHES - BAGS -->
+    <type name="Slingbag_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Slingbag_Brown">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="Slingbag_Gray">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="ArmyPouch_Beige">
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="ArmyPouch_Black">
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="ArmyPouch_Camo">
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="ArmyPouch_Green">
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="DuffelBagSmall_Camo">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="DuffelBagSmall_Green">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="DuffelBagSmall_Medical">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="HipPack_Black">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="HipPack_Green">
+        <cargo preset="toolsgeneral" />
+    </type>
+    <type name="HipPack_Party">
+        <cargo preset="ammocivil" />
+    </type>
+    <type name="HipPack_Medical">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="CanvasBag_Medical">
+        <cargo preset="toolsmedic" />
+    </type>
+    <type name="CanvasBag_Olive">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
     <type name="TaloonBag_Blue">
         <cargo preset="toolsgeneral" />
         <cargo preset="ammocivil" />
