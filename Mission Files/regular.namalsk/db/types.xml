@@ -7353,7 +7353,7 @@
   <type name="HipPack_Black">
     <nominal>10</nominal>
     <min>8</min>
-    <lifetime>7200</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7369,7 +7369,7 @@
   <type name="HipPack_Green">
     <nominal>10</nominal>
     <min>8</min>
-    <lifetime>7200</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7385,7 +7385,7 @@
   <type name="HipPack_Medical">
     <nominal>6</nominal>
     <min>4</min>
-    <lifetime>7200</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -7399,7 +7399,7 @@
   <type name="HipPack_Party">
     <nominal>1</nominal>
     <min>1</min>
-    <lifetime>7200</lifetime>
+    <lifetime>1800</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
