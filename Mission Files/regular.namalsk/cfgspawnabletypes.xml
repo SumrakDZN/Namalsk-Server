@@ -360,6 +360,17 @@
     <type name="Crossbow_Autumn" />
     <type name="Crossbow_Black" />
     <type name="Crossbow_Wood" />
+    <type name="M14">
+        <attachments chance="0.30">
+            <item name="M68Optic" chance="0.60" />
+            <item name="ACOGOptic" chance="0.30" />
+            <item name="ACOGOptic_6x" chance="0.10" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_M14_10Rnd" chance="0.40" />
+            <item name="Mag_M14_20Rnd" chance="0.60" />
+        </attachments>
+    </type>
 
 
     <!-- NAMALSK - WEAPONS - PISTOLS -->
