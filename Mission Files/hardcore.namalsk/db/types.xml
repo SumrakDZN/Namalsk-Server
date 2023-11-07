@@ -226,10 +226,10 @@
     <tag name="military" />
   </type>
   <type name="M79">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>7200</lifetime>
     <restock>1800</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -913,7 +913,7 @@
     <tag name="military" />
   </type>
   <type name="Ammo_40mm_Explosive">
-    <nominal>4</nominal>
+    <nominal>2</nominal>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <min>2</min>
