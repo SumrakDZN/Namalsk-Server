@@ -397,6 +397,20 @@
     <tag name="police" />
     <tag name="military" />
   </type>
+  <type name="Vikhr">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier23" />
+    <category name="rifles" />
+    <tag name="military" />
+  </type>
   <type name="VSS">
     <nominal>4</nominal>
     <lifetime>2700</lifetime>
@@ -2053,6 +2067,19 @@
     <category name="weapons" />
     <tag name="police" />
   </type>
+  <type name="Mag_SSG82_5rnd">
+    <nominal>6</nominal>
+    <min>5</min>
+    <lifetime>2700</lifetime>
+    <restock>500</restock>
+    <quantmin>25</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <category name="weapons" />
+    <tag name="police" />
+  </type>
   <type name="Mag_CZ61_20Rnd">
     <nominal>10</nominal>
     <min>8</min>
@@ -2425,6 +2452,20 @@
     <tag name="military" />
   </type>
   <type name="Mag_VSS_10Rnd">
+    <nominal>6</nominal>
+    <min>5</min>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <quantmin>40</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier23" />
+    <category name="weapons" />
+    <tag name="military" />
+  </type>
+  <type name="Mag_VAL_20Rnd">
     <nominal>3</nominal>
     <min>2</min>
     <lifetime>2700</lifetime>
@@ -2434,13 +2475,13 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
+    <value user="Tier4" />
     <category name="weapons" />
     <tag name="military" />
   </type>
-  <type name="Mag_VAL_20Rnd">
-    <nominal>3</nominal>
-    <min>2</min>
+  <type name="Mag_Vikhr_30Rnd">
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>2700</lifetime>
     <restock>1800</restock>
     <quantmin>40</quantmin>
@@ -3462,8 +3503,8 @@
     <tag name="medical" />
   </type>
   <type name="Morphine">
-    <nominal>12</nominal>
-    <min>10</min>
+    <nominal>6</nominal>
+    <min>5</min>
     <lifetime>2700</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -3572,6 +3613,20 @@
     <value />
     <category name="tools" />
     <tag name="civilian" />
+    <tag name="medical" />
+  </type>
+  <type name="PainkillerTablets">
+    <nominal>6</nominal>
+    <min>5</min>
+    <lifetime>2700</lifetime>
+    <restock>300</restock>
+    <quantmin>20</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
     <tag name="medical" />
   </type>
 
@@ -9780,8 +9835,8 @@
 
   <!-- NAMALSK - CLOTHES - HEADGEAR -->
   <type name="BallisticHelmet_Green">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -9794,8 +9849,8 @@
     <tag name="military" />
   </type>
   <type name="BallisticHelmet_Black">
-    <nominal>6</nominal>
-    <min>4</min>
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -9808,8 +9863,36 @@
     <tag name="military" />
   </type>
   <type name="BallisticHelmet_UN">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="BallisticHelmet_Woodland">
+    <nominal>2</nominal>
+    <min>1</min>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="clothes" />
+    <tag name="military" />
+  </type>
+  <type name="BallisticHelmet_BDU">
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
