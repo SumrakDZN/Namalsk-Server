@@ -380,6 +380,15 @@
             <item name="Mag_M14_20Rnd" chance="0.60" />
         </attachments>
     </type>
+    <type name="SV98">
+        <attachments chance="0.10">
+            <item name="ACOGOptic" chance="0.70" />
+            <item name="ACOGOptic_6x" chance="0.30" />
+        </attachments>
+        <attachments chance="0.40">
+            <item name="Mag_SV98_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
 
 
     <!-- NAMALSK - WEAPONS - PISTOLS -->

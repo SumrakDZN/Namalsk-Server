@@ -439,6 +439,20 @@
     <category name="rifles" />
     <tag name="military" />
   </type>
+  <type name="SV98">
+    <nominal>1</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier4" />
+    <category name="rifles" />
+    <tag name="military" />
+  </type>
   <type name="Winchester70">
     <nominal>5</nominal>
     <lifetime>3600</lifetime>
@@ -2391,6 +2405,20 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
     <value user="Tier45" />
+    <category name="weapons" />
+    <tag name="military" />
+  </type>
+  <type name="Mag_SV98_10Rnd">
+    <nominal>3</nominal>
+    <min>2</min>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <quantmin>50</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier4" />
     <category name="weapons" />
     <tag name="military" />
   </type>
