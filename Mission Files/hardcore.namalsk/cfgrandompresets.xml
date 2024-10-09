@@ -41,7 +41,7 @@
 		<item name="Epinephrine" chance="0.15" />
 	</cargo>
 
-	<cargo chance="0.10" name="toolsmedic">
+	<cargo chance="0.25" name="toolsmedic">
 		<item name="Heatpack" chance="0.13" />
 		<item name="SewingKit" chance="0.10" />
 		<item name="BandageDressing" chance="0.10" />
@@ -54,6 +54,13 @@
 		<item name="Epinephrine" chance="0.05" />
 		<item name="TetracyclineAntibiotics" chance="0.05" />
 		<item name="SalineBagIV" chance="0.05" />
+	</cargo>
+
+	<cargo chance="0.10" name="toolspills">
+		<item name="CharcoalTablets" chance="0.25" />
+		<item name="PainkillerTablets" chance="0.25" />
+		<item name="VitaminBottle" chance="0.25" />
+		<item name="TetracyclineAntibiotics" chance="0.25" />
 	</cargo>
 
 	<cargo chance="0.10" name="toolspolice">
@@ -161,10 +168,10 @@
 		<item name="Zagorky" chance="0.14" />
 		<item name="ZagorkyChocolate" chance="0.14" />
 		<item name="ZagorkyPeanuts" chance="0.14" />
-		<item name="dzn_SodaCan_Fronta" chance="0.16" />
-		<item name="dzn_PeachesCan" chance="0.14" />
-		<item name="dzn_Marmalade" chance="0.14" />
-		<item name="dzn_Honey" chance="0.14" />
+		<item name="SodaCan_Fronta" chance="0.16" />
+		<item name="PeachesCan" chance="0.14" />
+		<item name="Marmalade" chance="0.14" />
+		<item name="Honey" chance="0.14" />
 	</cargo>
 	<cargo chance="1.00" name="Gifts_RepairKits">
 		<item name="DuctTape" chance="0.25" />
@@ -289,8 +296,9 @@
 		<item name="PlateCarrierVest_Green" chance="0.05" />
 	</attachments>
 	<attachments chance="0.25" name="vestsRUCamo">
-		<item name="SmershVest" chance="0.50" />
-		<item name="HighCapacityVest_Olive" chance="0.45" />
-		<item name="PlateCarrierVest_Camo" chance="0.05" />
+		<item name="SmershVest" chance="0.45" />
+		<item name="HighCapacityVest_Olive" chance="0.35" />
+		<item name="PlateCarrierVest_Camo" chance="0.15" />
+		<item name="PlateCarrierVest_Winter" chance="0.05" />
 	</attachments>
 </randompresets>

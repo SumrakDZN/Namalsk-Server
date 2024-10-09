@@ -15,14 +15,29 @@
     </fog>
     <rain>
         <current actual="0.0" time="120" duration="240" />
-        <limits min="0.0" max="1.0" />
+        <limits min="0.0" max="0.0" />
         <timelimits min="300" max="600" />
         <changelimits min="0.0" max="1.0" />
         <thresholds min="0.0" max="1.0" end="0" />
     </rain>
-    <wind>
-        <maxspeed>30</maxspeed>
-        <params min="0.1" max="1.0" frequency="42" />
-    </wind>
+    <windMagnitude>
+        <current actual="8.0" time="120" duration="240" />
+        <limits min="0.0" max="20.0" />
+        <timelimits min="120" max="240" />
+        <changelimits min="0.0" max="20.0" />
+    </windMagnitude>
+    <windDirection>
+        <current actual="0.0" time="120" duration="240" />
+        <limits min="-3.14" max="3.14" />
+        <timelimits min="60" max="120" />
+        <changelimits min="-1.0" max="1.0" />
+    </windDirection>
+    <snowfall>
+        <current actual="0.0" time="120" duration="240" />
+        <limits min="0.0" max="0.0" />
+        <timelimits min="300" max="600" />
+        <changelimits min="0.0" max="1.0" />
+        <thresholds min="0.0" max="1.0" end="0" />
+    </snowfall>
     <storm density="0.0" threshold="1.0" timeout="60"/>
 </weather>

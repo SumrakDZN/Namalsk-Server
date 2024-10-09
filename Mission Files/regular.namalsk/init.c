@@ -116,6 +116,9 @@ class CustomMission: MissionServer
 		// bump fresh spawn water and energy values (to compensate for the frozen food and harder-to-get wells)
 		player.GetStatWater().Set( 900 );
 		player.GetStatEnergy().Set( 1100 );
+
+		// add temporal resistance against the common cold
+		player.SetTemporaryResistanceToAgent(eAgents.INFLUENZA, 900);
 	}
 };
   
