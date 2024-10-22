@@ -4,7 +4,7 @@
     <overcast>
         <current actual="0.17" time="120" duration="240" />
         <limits min="0.10" max="0.30" />
-        <timelimits min="1600" max="2100" />
+        <timelimits min="900" max="1600" />
         <changelimits min="0.10" max="0.20" />
     </overcast>
     <fog>
