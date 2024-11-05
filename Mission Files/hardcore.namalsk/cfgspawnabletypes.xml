@@ -1027,19 +1027,19 @@
         <cargo preset="toolsmilitary" />
         <cargo preset="ammomilitary" />
     </type>
-    <type name="dzn_bubblegoose_blue">
+    <type name="DownJacket_Blue">
         <cargo preset="toolsgeneral" />
         <cargo preset="ammocivil" />
     </type>
-    <type name="dzn_bubblegoose_red">
+    <type name="DownJacket_Red">
         <cargo preset="toolsgeneral" />
         <cargo preset="ammocivil" />
     </type>
-    <type name="dzn_bubblegoose_orange">
+    <type name="DownJacket_Orange">
         <cargo preset="toolsgeneral" />
         <cargo preset="ammocivil" />
     </type>
-    <type name="dzn_bubblegoose_green">
+    <type name="DownJacket_Green">
         <cargo preset="toolsgeneral" />
         <cargo preset="ammocivil" />
     </type>
@@ -1768,7 +1768,7 @@
     <type name="GiftWrapPaper">
         <damage min="0.0" max="0.0" />
     </type>
-    <type name="dzn_Pot">
+    <type name="Pot">
         <damage min="0.0" max="0.35" />
     </type>
     <type name="FryingPan">
