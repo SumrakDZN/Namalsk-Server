@@ -7483,6 +7483,7 @@
 				<container name="Rifles" lootmax="1">
 						<category name="rifles" />
 						<tag name="military" />
+						<tag name="seaice" />
 						<point pos="3.463135 -1.021550 1.669677" range="1.188568" height="1.895834" />
 						<point pos="0.130859 -1.021123 0.767807" range="1.199986" height="2.324626" />
 				</container>
@@ -9333,6 +9334,7 @@
 						<category name="rifles" />
 						<category name="pistols" />
 						<tag name="military" />
+						<tag name="seaice" />
 						<point pos="14.552169 -7.245808 3.778232" range="0.8" height="0.679688" />
 						<point pos="10.883212 -7.178469 3.408291" range="0.8" height="0.679684" />
 						<point pos="15.937425 -4.626736 -5.030172" range="0.340625" height="0.300432" />
@@ -10559,6 +10561,7 @@
 				<container name="Rifles" lootmax="2">
 						<category name="rifles" />
 						<tag name="military" />
+						<tag name="seaice" />
 						<point pos="-11.281279 4.397598 -8.450501" range="0.707245" height="1.768112" />
 						<point pos="-1.945680 10.394836 -18.663816" range="0.905823" height="2.000000" />
 						<point pos="-8.803679 7.410748 -14.019166" range="1.144270" height="2.000000" />

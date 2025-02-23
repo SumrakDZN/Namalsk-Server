@@ -355,7 +355,7 @@
     <tag name="military" />
   </type>
   <type name="SVD">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>2700</lifetime>
     <restock>1800</restock>
     <min>1</min>
@@ -367,6 +367,20 @@
     <value user="Tier5" />
     <category name="rifles" />
     <tag name="military" />
+  </type>
+  <type name="SVD_Wooden">
+    <nominal>1</nominal>
+    <lifetime>2700</lifetime>
+    <restock>2700</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier4" />
+    <category name="rifles" />
+    <tag name="seaice" />
   </type>
   <type name="M14">
     <nominal>1</nominal>
@@ -14048,6 +14062,10 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="OvenIndoor">
+    <lifetime>604800</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+  <type name="FireplaceFireBarrel">
     <lifetime>604800</lifetime> 
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>

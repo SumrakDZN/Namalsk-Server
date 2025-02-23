@@ -253,8 +253,8 @@
             <item name="ACOGOptic" chance="0.15" />
         </attachments>
         <attachments chance="0.10">
-            <item name="MP5_Compensator" chance="1.00" />
-            <item name="PistolSuppressor" chance="1.00" />
+            <item name="MP5_Compensator" chance="0.7" />
+            <item name="PistolSuppressor" chance="0.3" />
         </attachments>
     </type>
     <type name="Repeater" />
@@ -280,6 +280,14 @@
             <item name="PSO1Optic" chance="1.00" />
         </attachments>
         <attachments chance="0.60">
+            <item name="Mag_SVD_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="SVD_Wooden">
+        <attachments chance="0.60">
+            <item name="PSO1Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
             <item name="Mag_SVD_10Rnd" chance="1.00" />
         </attachments>
     </type>
