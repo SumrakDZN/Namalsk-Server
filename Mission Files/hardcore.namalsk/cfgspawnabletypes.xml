@@ -96,7 +96,8 @@
     </type>
     <type name="B95">
         <attachments chance="0.20">
-            <item name="HuntingOptic" chance="1.00" />
+            <item name="SportingOptic" chance="0.75" />
+            <item name="HuntingOptic" chance="0.25" />
         </attachments>
     </type>
     <type name="PP19">
@@ -126,7 +127,8 @@
             <item name="Mag_CZ527_5rnd" chance="1.00" />
         </attachments>
         <attachments chance="0.20">
-            <item name="HuntingOptic" chance="1.00" />
+            <item name="SportingOptic" chance="0.75" />
+            <item name="HuntingOptic" chance="0.25" />
         </attachments>
     </type>
     <type name="CZ550">
@@ -134,7 +136,8 @@
             <item name="Mag_CZ550_10rnd" chance="1.00" />
         </attachments>
         <attachments chance="0.20">
-            <item name="HuntingOptic" chance="1.00" />
+            <item name="SportingOptic" chance="0.75" />
+            <item name="HuntingOptic" chance="0.25" />
         </attachments>
     </type>
     <type name="FAL">
@@ -264,7 +267,8 @@
             <item name="Mag_Ruger1022_30Rnd" chance="0.40" />
         </attachments>
         <attachments chance="0.20">
-            <item name="HuntingOptic" chance="1.00" />
+            <item name="SportingOptic" chance="0.75" />
+            <item name="HuntingOptic" chance="0.25" />
         </attachments>
     </type>
     <type name="SKS">
@@ -277,7 +281,8 @@
     </type>
     <type name="SVD">
         <attachments chance="0.80">
-            <item name="PSO1Optic" chance="1.00" />
+            <item name="PSO1Optic" chance="0.75" />
+            <item name="PSO6Optic" chance="0.25" />
         </attachments>
         <attachments chance="0.60">
             <item name="Mag_SVD_10Rnd" chance="1.00" />
@@ -285,7 +290,8 @@
     </type>
     <type name="SVD_Wooden">
         <attachments chance="0.60">
-            <item name="PSO1Optic" chance="1.00" />
+            <item name="PSO1Optic" chance="0.75" />
+            <item name="PSO6Optic" chance="0.25" />
         </attachments>
         <attachments chance="0.10">
             <item name="Mag_SVD_10Rnd" chance="1.00" />
@@ -339,7 +345,8 @@
     </type>
     <type name="Winchester70">
         <attachments chance="0.20">
-            <item name="HuntingOptic" chance="1.00" />
+            <item name="SportingOptic" chance="0.75" />
+            <item name="HuntingOptic" chance="0.25" />
         </attachments>
     </type>
     <type name="Izh43Shotgun" />
@@ -365,8 +372,9 @@
         </attachments>
         <attachments chance="0.30">
             <item name="M68Optic" chance="0.60" />
-            <item name="ACOGOptic" chance="0.30" />
+            <item name="ACOGOptic" chance="0.25" />
             <item name="ACOGOptic_6x" chance="0.10" />
+            <item name="MK4Optic_Black" chance="0.05" />
         </attachments>
     </type>
     <type name="SSG82">
@@ -380,8 +388,9 @@
     <type name="M14">
         <attachments chance="0.30">
             <item name="M68Optic" chance="0.60" />
-            <item name="ACOGOptic" chance="0.30" />
+            <item name="ACOGOptic" chance="0.25" />
             <item name="ACOGOptic_6x" chance="0.10" />
+            <item name="MK4Optic_Green" chance="0.05" />
         </attachments>
         <attachments chance="0.30">
             <item name="Mag_M14_10Rnd" chance="0.40" />
@@ -391,10 +400,27 @@
     <type name="SV98">
         <attachments chance="0.10">
             <item name="ACOGOptic" chance="0.70" />
-            <item name="ACOGOptic_6x" chance="0.30" />
+            <item name="ACOGOptic_6x" chance="0.25" />
+            <item name="MK4Optic_Green" chance="0.05" />
         </attachments>
         <attachments chance="0.40">
             <item name="Mag_SV98_10Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="PM73Rak">
+        <attachments chance="0.40">
+            <item name="Mag_PM73_15Rnd" chance="0.70" />
+            <item name="Mag_PM73_25Rnd" chance="0.30" />
+        </attachments>
+    </type>
+    <type name="R12">
+        <attachments chance="0.50">
+            <item name="UniversalLight" chance="1.00" />
+        </attachments>
+        <attachments chance="0.80">
+            <item name="ReflexOptic" chance="0.33" />
+            <item name="M4_T3NRDSOptic" chance="0.33" />
+            <item name="M68Optic" chance="0.34" />
         </attachments>
     </type>
 

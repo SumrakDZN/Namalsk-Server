@@ -87,6 +87,20 @@
     <tag name="police" />
     <tag name="military" />
   </type>
+  <type name="PM73Rak">
+    <nominal>8</nominal>
+    <lifetime>3600</lifetime>
+    <restock>200</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier12" />
+    <category name="rifles" />
+    <tag name="police" />
+  </type>
   <type name="PP19">
     <nominal>6</nominal>
     <lifetime>3600</lifetime>
@@ -172,7 +186,7 @@
     <nominal>2</nominal>
     <min>1</min>
     <lifetime>3600</lifetime>
-    <restock>1800</restock>
+    <restock>2700</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -198,18 +212,18 @@
     <tag name="hunting" />
   </type>
   <type name="M4A1">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>3600</lifetime>
-    <restock>1800</restock>
+    <restock>2700</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier7" />
-    <category name="lantia" />
-    <tag name="military" />
+    <value user="Tier4" />
+    <category name="rifles" />
+    <tag name="seaice" />
   </type>
   <type name="M16A2">
     <nominal>3</nominal>
@@ -240,10 +254,10 @@
     <tag name="military" />
   </type>
   <type name="FAMAS">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>3600</lifetime>
     <restock>1800</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -270,15 +284,15 @@
   <type name="Aug">
     <nominal>1</nominal>
     <lifetime>3600</lifetime>
-    <restock>1800</restock>
+    <restock>2700</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier7" />
-    <category name="lantia" />
+    <value user="Tier5" />
+    <category name="rifles" />
     <tag name="military" />
   </type>
   <type name="Mosin9130">
@@ -364,23 +378,23 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
-    <category name="rifles" />
+    <value user="Tier7" />
+    <category name="lantia" />
     <tag name="military" />
   </type>
   <type name="SVD_Wooden">
     <nominal>1</nominal>
     <lifetime>2700</lifetime>
-    <restock>2700</restock>
+    <restock>3600</restock>
     <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
-    <category name="rifles" />
-    <tag name="seaice" />
+    <value user="Tier7" />
+    <category name="lantia" />
+    <tag name="military" />
   </type>
   <type name="M14">
     <nominal>1</nominal>
@@ -392,8 +406,8 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
-    <category name="rifles" />
+    <value user="Tier7" />
+    <category name="lantia" />
     <tag name="military" />
   </type>
   <type name="UMP45">
@@ -463,7 +477,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier4" />
+    <value user="Tier5" />
     <category name="rifles" />
     <tag name="military" />
   </type>
@@ -538,6 +552,20 @@
     <usage />
     <value user="Tier34" />
     <category name="rifles" />
+    <tag name="military" />
+  </type>
+  <type name="R12">
+    <nominal>1</nominal>
+    <lifetime>3600</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier7" />
+    <category name="lantia" />
     <tag name="military" />
   </type>
   <type name="Scout">
@@ -2138,6 +2166,34 @@
     <tag name="police" />
     <tag name="military" />
   </type>
+  <type name="Mag_PM73_15Rnd">
+    <nominal>8</nominal>
+    <min>5</min>
+    <lifetime>2700</lifetime>
+    <restock>500</restock>
+    <quantmin>25</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="weapons" />
+    <tag name="police" />
+  </type>
+  <type name="Mag_PM73_25Rnd">
+    <nominal>5</nominal>
+    <min>4</min>
+    <lifetime>2700</lifetime>
+    <restock>500</restock>
+    <quantmin>25</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="weapons" />
+    <tag name="police" />
+  </type>
   <type name="Mag_PP19_64Rnd">
     <nominal>5</nominal>
     <min>4</min>
@@ -2868,6 +2924,34 @@
     <category name="weapons" />
     <tag name="military" />
   </type>
+  <type name="MK4Optic_Black">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="weapons" />
+    <tag name="military" />
+  </type>
+  <type name="MK4Optic_Green">
+    <nominal>1</nominal>
+    <min>1</min>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="weapons" />
+    <tag name="military" />
+  </type>
   <type name="PUScopeOptic">
     <nominal>12</nominal>
     <min>7</min>
@@ -2926,6 +3010,20 @@
     <category name="weapons" />
     <tag name="hunting" />
   </type>
+  <type name="SportingOptic">
+    <nominal>14</nominal>
+    <min>12</min>
+    <lifetime>2700</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="weapons" />
+    <tag name="hunting" />
+  </type>
   <type name="PistolOptic">
     <nominal>0</nominal>
     <min>0</min>
@@ -2957,6 +3055,20 @@
   <type name="PSO11Optic">
     <nominal>3</nominal>
     <min>2</min>
+    <lifetime>2700</lifetime>
+    <restock>300</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="weapons" />
+    <tag name="military" />
+  </type>
+  <type name="PSO6Optic">
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>2700</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -4530,6 +4642,7 @@
     <usage />
     <value />
     <category name="tools" />
+    <tag name="industrial" />
     <tag name="farm" />
   </type>
   <type name="MediumTent">
