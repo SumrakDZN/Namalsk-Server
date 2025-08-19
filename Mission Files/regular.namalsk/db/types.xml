@@ -3420,7 +3420,7 @@
     <tag name="seaice" />
   </type>
 
-  
+
   <!-- NAMALSK - FOOD N DRINKS -->
   <type name="BoxCerealCrunchin">
     <nominal>4</nominal>
@@ -4149,6 +4149,7 @@
     <category name="tools" />
     <tag name="medical" />
   </type>
+
 
   <!-- NAMALSK - MISC ITEMS -->
   <type name="GasMask_Filter">
@@ -5448,21 +5449,6 @@
     <tag name="civilian" />
     <tag name="hunting" />
   </type>
-  <type name="TireRepairKit">
-    <nominal>20</nominal>
-    <min>17</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-    <usage />
-    <value />
-    <category name="tools" />
-    <tag name="civilian" />
-    <tag name="industrial" />
-  </type>
   <type name="Whetstone">
     <nominal>20</nominal>
     <min>15</min>
@@ -5478,6 +5464,21 @@
     <tag name="civilian" />
     <tag name="industrial" />
     <tag name="hunting" />
+  </type>
+  <type name="TireRepairKit">
+    <nominal>20</nominal>
+    <min>17</min>
+    <lifetime>2700</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="industrial" />
   </type>
   <type name="ElectronicRepairKit">
     <nominal>12</nominal>
@@ -13990,11 +13991,11 @@
     <lifetime>2700</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
-  <type name="RemoteDetonatorTrigger">
+  <type name="ImprovisedExplosive">
     <lifetime>3600</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
-  <type name="ImprovisedExplosive">
+  <type name="RemoteDetonatorTrigger">
     <lifetime>3600</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
@@ -16517,6 +16518,7 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
   </type>
+
   <!-- ADA -->
   <type name="OffroadHatchback">
     <nominal>0</nominal>
@@ -17109,23 +17111,6 @@
     <tag name="civilian" />
     <tag name="industrial" />
   </type>
-  <type name="HeadlightH7_Box">
-    <nominal>25</nominal>
-    <min>22</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="tools" />
-    <tag name="civilian" />
-    <tag name="industrial" />
-  </type>
-  <type name="HeadlightH7">
-    <lifetime>1800</lifetime>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-  </type>
   <type name="SparkPlug">
     <nominal>25</nominal>
     <min>22</min>
@@ -17151,6 +17136,23 @@
     <category name="tools" />
     <tag name="military" />
     <tag name="industrial" />
+  </type>
+  <type name="HeadlightH7_Box">
+    <nominal>25</nominal>
+    <min>22</min>
+    <lifetime>2700</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="industrial" />
+  </type>
+  <type name="HeadlightH7">
+    <lifetime>1800</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
   </type>
   <type name="CarRadiator">
     <nominal>12</nominal>

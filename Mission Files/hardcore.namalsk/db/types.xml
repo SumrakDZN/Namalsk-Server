@@ -9578,7 +9578,7 @@
     <category name="bags" />
     <tag name="military" />
   </type>
-  
+
 
   <!-- 80+ SLOTS -->
   <type name="MountainBag_Blue">
@@ -15936,35 +15936,7 @@
   </type>
 
 
-  <!-- GENERAL VEHICLE PARTS -->
-  <type name="SparkPlug">
-    <nominal>12</nominal>
-    <min>10</min>
-    <lifetime>2700</lifetime>
-    <restock>0</restock>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="tools" />
-    <tag name="civilian" />
-    <tag name="industrial" />
-  </type>
-  <type name="CanisterGasoline">
-    <nominal>25</nominal>
-    <min>22</min>
-    <lifetime>5400</lifetime>
-    <restock>0</restock>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="tools" />
-    <tag name="civilian" />
-    <tag name="industrial" />
-  </type>
-
-  <!-- DE support - vehicles -->
+  <!-- DE support - vehicles and parts -->
   <type name="Boat_01_Black">
     <nominal>0</nominal>
     <min>0</min>
@@ -16004,5 +15976,34 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  </type>
+
+
+  <!-- GENERAL VEHICLE PARTS -->
+  <type name="CanisterGasoline">
+    <nominal>25</nominal>
+    <min>22</min>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="industrial" />
+  </type>
+  <type name="SparkPlug">
+    <nominal>12</nominal>
+    <min>10</min>
+    <lifetime>2700</lifetime>
+    <restock>0</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools" />
+    <tag name="civilian" />
+    <tag name="industrial" />
   </type>
 </types>
