@@ -1963,7 +1963,30 @@
         <cargo preset="Gifts_MedMags" />
         <cargo preset="Gifts_BigModules" />
     </type>
-    
+
+
+    <!-- NAMALSK - VEHICLES -->
+    <type name="Boat_01_Black">
+        <attachments chance="0.30">
+            <item name="SparkPlug" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Boat_01_Blue">
+        <attachments chance="0.30">
+            <item name="SparkPlug" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Boat_01_Camo">
+        <attachments chance="0.30">
+            <item name="SparkPlug" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Boat_01_Orange">
+        <attachments chance="0.30">
+            <item name="SparkPlug" chance="1.00" />
+        </attachments>
+    </type>
+
 
     <!-- NAMALSK - INFECTED -->
     <type name="ZmbF_BlueCollarFat_Blue">
@@ -2504,28 +2527,6 @@
     <type name="ZmbM_Santa">
         <attachments chance="1.00">
             <item name="SantasHat" chance="1.00" />
-        </attachments>
-    </type>
-
-    <!-- NAMALSK - VEHICLES -->
-    <type name="Boat_01_Black">
-        <attachments chance="0.30">
-            <item name="SparkPlug" chance="1.00" />
-        </attachments>
-    </type>
-    <type name="Boat_01_Blue">
-        <attachments chance="0.30">
-            <item name="SparkPlug" chance="1.00" />
-        </attachments>
-    </type>
-    <type name="Boat_01_Camo">
-        <attachments chance="0.30">
-            <item name="SparkPlug" chance="1.00" />
-        </attachments>
-    </type>
-    <type name="Boat_01_Orange">
-        <attachments chance="0.30">
-            <item name="SparkPlug" chance="1.00" />
         </attachments>
     </type>
 </spawnabletypes>

@@ -5852,7 +5852,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5865,7 +5864,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5878,7 +5876,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5891,7 +5888,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5904,7 +5900,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5917,7 +5912,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5930,7 +5924,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5943,7 +5936,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5956,7 +5948,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5969,7 +5960,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5982,7 +5972,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -5995,7 +5984,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6008,7 +5996,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6021,7 +6008,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6034,7 +6020,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6047,7 +6032,6 @@
     <min>1</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
-    <min>0</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
