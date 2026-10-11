@@ -4,28 +4,10 @@
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTriggerNam",
 			"Data": { 
-				"Pos": [ 3592, 120, 6709 ],
-				"Radius": 80,
-				"PosHeight": 70,
-				"NegHeight": 0,
-				"InnerPartDist": 100,
-				"OuterOffset": 20, 
-				"ParticleName": "nst/ns_dayz/effects/particles/contaminated_underground_bigone"
-				},
-			"PlayerData": {
-				"AroundPartName": "nst/ns_dayz/effects/particles/contaminated_underground_around",
-				"TinyPartName": "nst/ns_dayz/effects/particles/contaminated_underground_tiny",
-				"PPERequesterType": "PPERequester_NamContamination"
-			}
-		},
-        { 	"AreaName": "Athena-3 Tunnels", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTriggerNam",
-			"Data": { 
-				"Pos": [ 3619, 53, 6612 ],
-				"Radius": 150,
-				"PosHeight": 67,
-				"NegHeight": 12,
+				"Pos": [ 3006, 90, 6403 ],
+				"Radius": 105,
+				"PosHeight": 47,
+				"NegHeight": 32,
 				"InnerPartDist": 100,
 				"OuterOffset": 20, 
 				"ParticleName": "nst/ns_dayz/effects/particles/contaminated_underground_bigone"
@@ -39,11 +21,15 @@
     ],
 
 	"SafePositions":[
-		[3540.62, 6248.10],
-		[3452.39, 6956.50],
-		[3428.58, 8227.02],
-		[3758.89, 8673.79],
-		[12120.38, 7947.39],
-		[12290.56, 7520.61]
+		[3472.016357, 6923.174805],
+		[3164.024414, 6894.684570],
+		[2945.282715, 6856.795898],
+		[2711.471436, 6698.056152],
+		[2602.061523, 6072.706543],
+		[2816.106445, 5995.396973],
+		[3046.108887, 6036.903320],
+		[3172.932861, 6127.714355],
+		[3407.083252, 6247.210449],
+		[3523.872070, 6358.469727]
 	]
 }

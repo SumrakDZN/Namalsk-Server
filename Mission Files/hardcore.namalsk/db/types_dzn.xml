@@ -299,8 +299,7 @@
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
     <value user="Tier3" />
-    <category name="tools" />
-    <tag name="seaice" />
+    <category name="lore" />
   </type>
   <type name="dzn_module_surge">
     <nominal>1</nominal>
@@ -747,9 +746,8 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier5" />
-    <category name="clothes" />
-    <tag name="military" />
+    <value user="Tier6" />
+    <category name="lantia" />
   </type>
   <type name="dzn_platecarrierholster_nac">
     <nominal>1</nominal>

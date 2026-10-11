@@ -1,0 +1,3574 @@
+{
+    "Triggers": [
+        {
+            "Comment": "athena-research-basement",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                4304.68115234375,
+                71.20976257324219,
+                8077.7421875
+            ],
+            "Orientation": [
+                -9.621819496154786,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                21.01799964904785,
+                8.557952880859375,
+                10.573202133178711
+            ],
+            "EyeAccommodation": 0.20000000298023225,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 1,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "athena-research-basement-entrance",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                4310.23046875,
+                78.60065460205078,
+                8078.1748046875
+            ],
+            "Orientation": [
+                -9.26148509979248,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                3.478179931640625,
+                6.309661865234375,
+                9.546107292175293
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        4310.18408203125,
+                        78.63385772705078,
+                        8082.54833984375
+                    ],
+                    "EyeAccommodation": 1.0,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4310.6376953125,
+                        76.81521606445313,
+                        8079.6396484375
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4311.25048828125,
+                        73.76681518554688,
+                        8075.94775390625
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                }
+            ]
+        },
+        {
+            "Comment": "athena-research-underground1",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                4224.5908203125,
+                73.84203338623047,
+                8205.818359375
+            ],
+            "Orientation": [
+                -7.128684997558594,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                36.575408935546878,
+                12.44390869140625,
+                33.080047607421878
+            ],
+            "EyeAccommodation": 0.20000000298023225,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 1,
+            "AmbientSoundType": "Warhead_Storage_Ambient_SoundSet",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        4239.12451171875,
+                        71.69029235839844,
+                        8191.22216796875
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4241.986328125,
+                        70.72826385498047,
+                        8194.7041015625
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4237.8623046875,
+                        71.69029235839844,
+                        8198.44140625
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4235.5966796875,
+                        71.72959899902344,
+                        8204.0458984375
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4232.25390625,
+                        71.88530731201172,
+                        8209.595703125
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4229.15869140625,
+                        71.72469329833985,
+                        8214.3154296875
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4227.177734375,
+                        71.69022369384766,
+                        8208.5810546875
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4232.1396484375,
+                        71.69029998779297,
+                        8200.1259765625
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4228.82470703125,
+                        71.29383087158203,
+                        8193.5283203125
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4228.42431640625,
+                        71.69027709960938,
+                        8186.67626953125
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4220.8759765625,
+                        71.32344055175781,
+                        8190.818359375
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4222.59521484375,
+                        70.43649291992188,
+                        8199.2392578125
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4219.75341796875,
+                        69.47142028808594,
+                        8206.7626953125
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4214.7861328125,
+                        68.72898864746094,
+                        8211.916015625
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4233.54150390625,
+                        71.7247314453125,
+                        8216.7138671875
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4227.77001953125,
+                        71.72476959228516,
+                        8218.666015625
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4236.40087890625,
+                        69.79946899414063,
+                        8210.0625
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4231.8115234375,
+                        67.9401626586914,
+                        8215.7646484375
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4225.74609375,
+                        68.71420288085938,
+                        8216.4150390625
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4229.54736328125,
+                        67.9400634765625,
+                        8221.7958984375
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                }
+            ]
+        },
+        {
+            "Comment": "athena-research-underground2",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                4239.7177734375,
+                72.54010009765625,
+                8181.7978515625
+            ],
+            "Orientation": [
+                -23.493083953857423,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                13.533076286315918,
+                9.635498046875,
+                23.35137939453125
+            ],
+            "EyeAccommodation": 0.20000000298023225,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        4237.77294921875,
+                        71.69026947021485,
+                        8173.283203125
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4236.09375,
+                        71.69023895263672,
+                        8185.634765625
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4240.51025390625,
+                        71.69029235839844,
+                        8181.49462890625
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4244.42431640625,
+                        71.72958374023438,
+                        8173.94140625
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4239.97021484375,
+                        71.69029235839844,
+                        8186.72607421875
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4243.8466796875,
+                        70.728271484375,
+                        8186.09814453125
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4234.52392578125,
+                        71.69023895263672,
+                        8178.60546875
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                }
+            ]
+        },
+        {
+            "Comment": "athena-research-underground-entrance",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                4227.96875,
+                74.4222183227539,
+                8178.623046875
+            ],
+            "Orientation": [
+                -9.47848892211914,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                15.903555870056153,
+                6.0819854736328129,
+                22.332422256469728
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        4229.103515625,
+                        71.6902847290039,
+                        8169.0556640625
+                    ],
+                    "EyeAccommodation": 1.0,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4235.23388671875,
+                        71.69023132324219,
+                        8171.68359375
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4230.0732421875,
+                        71.6902847290039,
+                        8174.59765625
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4230.75634765625,
+                        71.69026947021485,
+                        8179.9013671875
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4220.73681640625,
+                        72.11492156982422,
+                        8177.244140625
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4222.50732421875,
+                        72.45508575439453,
+                        8183.7890625
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4235.87841796875,
+                        71.69026947021485,
+                        8179.82080078125
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4227.9443359375,
+                        71.69026947021485,
+                        8188.50390625
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4227.09423828125,
+                        71.69029998779297,
+                        8182.75634765625
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                }
+            ]
+        },
+        {
+            "Comment": "athena2-underground",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                4987.5341796875,
+                31.51983070373535,
+                6618.47265625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                69.431640625,
+                29.575763702392579,
+                44.748046875
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 1,
+            "AmbientSoundType": "Warhead_Storage_Ambient_SoundSet",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "athena2-main-entrance",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                4993.330078125,
+                48.55925750732422,
+                6617.33203125
+            ],
+            "Orientation": [
+                0.9024998545646668,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                12.353452682495118,
+                4.9848785400390629,
+                7.913333415985107
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Warhead_Storage_Ambient_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        4987.57763671875,
+                        47.67841720581055,
+                        6618.55712890625
+                    ],
+                    "EyeAccommodation": 1.0,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4991.46728515625,
+                        47.678321838378909,
+                        6614.81982421875
+                    ],
+                    "EyeAccommodation": 1.0,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4999.15576171875,
+                        47.71446228027344,
+                        6614.9345703125
+                    ],
+                    "EyeAccommodation": 1.0,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4993.70703125,
+                        47.53237533569336,
+                        6616.953125
+                    ],
+                    "EyeAccommodation": 0.30000001192092898,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4992.85595703125,
+                        46.39588928222656,
+                        6619.98779296875
+                    ],
+                    "EyeAccommodation": 0.0,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                }
+            ]
+        },
+        {
+            "Comment": "athena2-secondary-entrance",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                4959.92578125,
+                48.31285858154297,
+                6602.99658203125
+            ],
+            "Orientation": [
+                0.9024998545646668,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                8.611446380615235,
+                6.7891693115234379,
+                4.462364196777344
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Warhead_Storage_Ambient_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        4963.61279296875,
+                        47.660213470458987,
+                        6602.38525390625
+                    ],
+                    "EyeAccommodation": 1.0,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4960.482421875,
+                        47.57154083251953,
+                        6602.01611328125
+                    ],
+                    "EyeAccommodation": 0.30000001192092898,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        4958.9853515625,
+                        46.36809158325195,
+                        6601.98193359375
+                    ],
+                    "EyeAccommodation": 0.0,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                }
+            ]
+        },
+        {
+            "Comment": "tunnel-brensk-entrance",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3718.51611328125,
+                45.15251159667969,
+                6215.1201171875
+            ],
+            "Orientation": [
+                -39.80014419555664,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                12.255596160888672,
+                10.080718994140625,
+                64.05167388916016
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        3737.938232421875,
+                        41.34580993652344,
+                        6190.68017578125
+                    ],
+                    "EyeAccommodation": 0.8999999761581421,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3732.733154296875,
+                        41.42509460449219,
+                        6197.0185546875
+                    ],
+                    "EyeAccommodation": 0.800000011920929,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3727.6552734375,
+                        41.50093078613281,
+                        6203.00244140625
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3721.850830078125,
+                        41.58476257324219,
+                        6209.84326171875
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3716.9697265625,
+                        41.6318244934082,
+                        6215.806640625
+                    ],
+                    "EyeAccommodation": 0.0,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3711.87451171875,
+                        41.68480682373047,
+                        6222.3359375
+                    ],
+                    "EyeAccommodation": 0.0,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3706.39306640625,
+                        41.73712921142578,
+                        6229.15087890625
+                    ],
+                    "EyeAccommodation": 0.0,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                }
+            ]
+        },
+        {
+            "Comment": "tunnel-norinsk-entrance",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3583.95703125,
+                54.46996307373047,
+                7125.08203125
+            ],
+            "Orientation": [
+                3.9489753246307375,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                16.29764175415039,
+                11.71307373046875,
+                98.10334777832031
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        3584.98193359375,
+                        51.60384750366211,
+                        7173.7255859375
+                    ],
+                    "EyeAccommodation": 0.8999999761581421,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3584.202880859375,
+                        51.33869552612305,
+                        7162.08544921875
+                    ],
+                    "EyeAccommodation": 0.800000011920929,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3583.461669921875,
+                        51.1334342956543,
+                        7152.99169921875
+                    ],
+                    "EyeAccommodation": 0.699999988079071,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3582.980712890625,
+                        50.93656539916992,
+                        7143.7509765625
+                    ],
+                    "EyeAccommodation": 0.6000000238418579,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3582.316162109375,
+                        50.73095703125,
+                        7134.6884765625
+                    ],
+                    "EyeAccommodation": 0.5,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3581.87841796875,
+                        50.52995300292969,
+                        7126.2734375
+                    ],
+                    "EyeAccommodation": 0.30000001192092898,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3581.197509765625,
+                        50.2752685546875,
+                        7115.052734375
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3580.621826171875,
+                        50.001338958740237,
+                        7102.974609375
+                    ],
+                    "EyeAccommodation": 0.0,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3580.19287109375,
+                        49.750701904296878,
+                        7091.84423828125
+                    ],
+                    "EyeAccommodation": 0.0,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                },
+                {
+                    "Position": [
+                        3579.584228515625,
+                        49.426326751708987,
+                        7077.5478515625
+                    ],
+                    "EyeAccommodation": 0.0,
+                    "UseRaycast": 0,
+                    "Radius": 10.0,
+                    "LightLerp": 0,
+                    "Comment": "",
+                    "ExternalValueController": {
+                        "Type": "",
+                        "Params": []
+                    }
+                }
+            ]
+        },
+        {
+            "Comment": "tunnel1",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3581.1875,
+                50.582550048828128,
+                6973.4580078125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                15.2978515625,
+                14.383743286132813,
+                207.052734375
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "tunnel2",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3587.908203125,
+                47.04924392700195,
+                6765.1953125
+            ],
+            "Orientation": [
+                -3.1273303031921388,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                17.664321899414064,
+                12.376777648925782,
+                211.5447235107422
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "tunnel3",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3601.851806640625,
+                45.66533279418945,
+                6593.103515625
+            ],
+            "Orientation": [
+                -6.849228382110596,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                13.870512962341309,
+                9.071937561035157,
+                135.15512084960938
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "tunnel4",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3618.921875,
+                45.53753662109375,
+                6471.84228515625
+            ],
+            "Orientation": [
+                -9.603575706481934,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                14.542387008666993,
+                8.875595092773438,
+                112.11286163330078
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "tunnel5",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3635.518798828125,
+                45.46959686279297,
+                6384.96044921875
+            ],
+            "Orientation": [
+                -13.467924118041993,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                13.160086631774903,
+                8.816802978515625,
+                66.169677734375
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "tunnel6",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3649.967041015625,
+                45.408203125,
+                6333.10791015625
+            ],
+            "Orientation": [
+                -18.345298767089845,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                13.418694496154786,
+                8.719985961914063,
+                43.026790618896487
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "tunnel7",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3667.817626953125,
+                45.400123596191409,
+                6291.68017578125
+            ],
+            "Orientation": [
+                -27.379671096801759,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                14.156551361083985,
+                9.076934814453125,
+                50.176910400390628
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "tunnel8",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3688.7412109375,
+                45.44123077392578,
+                6254.5029296875
+            ],
+            "Orientation": [
+                -32.550621032714847,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                12.43500804901123,
+                9.440460205078125,
+                36.82902145385742
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "tunnel-connector1",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3620.53662109375,
+                53.01832962036133,
+                6531.2724609375
+            ],
+            "Orientation": [
+                82.5521011352539,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                22.924049377441408,
+                24.164756774902345,
+                9.313111305236817
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "tunnel-connector2",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3608.763427734375,
+                53.38525390625,
+                6629.39306640625
+            ],
+            "Orientation": [
+                -5.997828483581543,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                9.585090637207032,
+                24.564895629882814,
+                22.574169158935548
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "athena-3-underground",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3002.9052734375,
+                109.17826080322266,
+                6401.95849609375
+            ],
+            "Orientation": [
+                69.31153106689453,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                39.50770568847656,
+                99.43998718261719,
+                92.66804504394531
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "athena-3-canals-south-entrance",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2555.16455078125,
+                54.735076904296878,
+                5924.8310546875
+            ],
+            "Orientation": [
+                0.6646394729614258,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                17.952707290649415,
+                6.3294677734375,
+                37.603355407714847
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "athena3-canals-south1",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2576.78857421875,
+                55.811805725097659,
+                5947.8984375
+            ],
+            "Orientation": [
+                12.802725791931153,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                28.491933822631837,
+                6.6217193603515629,
+                15.63198471069336
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-93228",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2604.65625,
+                56.62187194824219,
+                5982.09765625
+            ],
+            "Orientation": [
+                34.74736022949219,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                16.539852142333986,
+                5.988067626953125,
+                68.57587432861328
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-274606",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2671.533203125,
+                55.55533981323242,
+                6054.41162109375
+            ],
+            "Orientation": [
+                32.426719665527347,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                54.36116409301758,
+                21.613685607910158,
+                126.50425720214844
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-432447",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2716.054443359375,
+                50.00230407714844,
+                6151.9052734375
+            ],
+            "Orientation": [
+                30.033203125,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                30.01321029663086,
+                10.612380981445313,
+                88.29106140136719
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-563077",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2752.51171875,
+                66.17855072021485,
+                6129.0146484375
+            ],
+            "Orientation": [
+                36.442535400390628,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                8.764053344726563,
+                12.741775512695313,
+                89.41553497314453
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-645127",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2778.57080078125,
+                58.50796890258789,
+                6202.5966796875
+            ],
+            "Orientation": [
+                32.38138961791992,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                85.25264739990235,
+                27.57721710205078,
+                65.9239501953125
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-765495",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2776.16552734375,
+                57.296749114990237,
+                6279.314453125
+            ],
+            "Orientation": [
+                38.71714782714844,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                34.44775390625,
+                31.21765899658203,
+                64.85653686523438
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-889235",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2822.901123046875,
+                70.17384338378906,
+                6219.8447265625
+            ],
+            "Orientation": [
+                38.71849060058594,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                96.5858154296875,
+                8.149810791015625,
+                16.674091339111329
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-955583",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2856.783203125,
+                68.3088150024414,
+                6256.9384765625
+            ],
+            "Orientation": [
+                -50.391746520996097,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                88.12431335449219,
+                5.069732666015625,
+                6.437614440917969
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1061822",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2831.881103515625,
+                70.21814727783203,
+                6296.357421875
+            ],
+            "Orientation": [
+                -50.46589279174805,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                114.77114868164063,
+                8.148330688476563,
+                16.134700775146486
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1180407",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2815.66162109375,
+                68.39218139648438,
+                6311.318359375
+            ],
+            "Orientation": [
+                -51.85657501220703,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                34.997222900390628,
+                6.103790283203125,
+                29.452289581298829
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1313943",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2851.7451171875,
+                68.29178619384766,
+                6374.232421875
+            ],
+            "Orientation": [
+                -46.595054626464847,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                108.83192443847656,
+                5.8609466552734379,
+                10.875282287597657
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1362221",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2902.4189453125,
+                68.30280303955078,
+                6402.37109375
+            ],
+            "Orientation": [
+                59.25569152832031,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                25.611282348632814,
+                5.9115142822265629,
+                16.390581130981447
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1401793",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2922.24072265625,
+                68.28358459472656,
+                6355.283203125
+            ],
+            "Orientation": [
+                -20.185909271240236,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                16.052425384521486,
+                6.191680908203125,
+                85.23313903808594
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1453680",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2906.437744140625,
+                68.61825561523438,
+                6302.74755859375
+            ],
+            "Orientation": [
+                -27.746095657348634,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                53.396217346191409,
+                5.6514129638671879,
+                6.910329818725586
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1630193",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2944.22314453125,
+                86.4042739868164,
+                6344.72265625
+            ],
+            "Orientation": [
+                -19.850126266479493,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                15.571532249450684,
+                8.614425659179688,
+                36.63637161254883
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1672173",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3008.7080078125,
+                86.3068618774414,
+                6353.2861328125
+            ],
+            "Orientation": [
+                -20.069305419921876,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                114.01760864257813,
+                8.646697998046875,
+                23.869396209716798
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1744219",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3056.68359375,
+                86.25529479980469,
+                6423.0263671875
+            ],
+            "Orientation": [
+                -19.6417236328125,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                23.780759811401368,
+                8.630523681640625,
+                99.83607482910156
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1831962",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3016.132080078125,
+                86.26553344726563,
+                6455.4814453125
+            ],
+            "Orientation": [
+                -19.922954559326173,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                31.197500228881837,
+                8.832366943359375,
+                11.40848159790039
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1914437",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3010.4951171875,
+                68.26063537597656,
+                6361.2001953125
+            ],
+            "Orientation": [
+                -20.682334899902345,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                49.95831298828125,
+                5.4774932861328129,
+                42.9996452331543
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1997753",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2998.35205078125,
+                80.71985626220703,
+                6370.73974609375
+            ],
+            "Orientation": [
+                69.39311981201172,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                16.980018615722658,
+                19.578079223632814,
+                41.759151458740237
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-2222042",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2942.723388671875,
+                68.18546295166016,
+                6405.76513671875
+            ],
+            "Orientation": [
+                -29.332529067993165,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                59.493743896484378,
+                5.561370849609375,
+                19.139251708984376
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-2265519",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2975.66796875,
+                68.29243469238281,
+                6428.21484375
+            ],
+            "Orientation": [
+                -18.998462677001954,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                21.992938995361329,
+                5.78179931640625,
+                29.311031341552736
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-2315369",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3034.878662109375,
+                80.68234252929688,
+                6436.7021484375
+            ],
+            "Orientation": [
+                -19.7698917388916,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                8.978256225585938,
+                19.2271728515625,
+                4.099313735961914
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-2362749",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3019.53369140625,
+                68.3323745727539,
+                6439.33837890625
+            ],
+            "Orientation": [
+                -20.221458435058595,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                68.8995361328125,
+                5.7960205078125,
+                17.598718643188478
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-2418171",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2965.219482421875,
+                68.20828247070313,
+                6336.677734375
+            ],
+            "Orientation": [
+                -19.881864547729493,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                52.553497314453128,
+                6.066375732421875,
+                4.372501373291016
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-2533713",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3081.541015625,
+                65.13408660888672,
+                6379.75390625
+            ],
+            "Orientation": [
+                -19.409765243530275,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                96.51528930664063,
+                12.198501586914063,
+                3.4562721252441408
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-2679698",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3147.70068359375,
+                66.81461334228516,
+                6493.068359375
+            ],
+            "Orientation": [
+                -20.52065086364746,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                81.05221557617188,
+                6.287200927734375,
+                17.29432487487793
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-2753457",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3081.44580078125,
+                68.02543640136719,
+                6462.06640625
+            ],
+            "Orientation": [
+                -19.74492073059082,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                64.79234313964844,
+                6.9041900634765629,
+                5.334800720214844
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-2923040",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3088.72802734375,
+                84.12948608398438,
+                6456.5048828125
+            ],
+            "Orientation": [
+                159.47598266601563,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                59.487552642822269,
+                7.286224365234375,
+                6.319185256958008
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-2977095",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3125.63623046875,
+                83.36628723144531,
+                6463.662109375
+            ],
+            "Orientation": [
+                161.57864379882813,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                16.782299041748048,
+                5.811126708984375,
+                16.94594955444336
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-3019785",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3165.43896484375,
+                82.53998565673828,
+                6482.5302734375
+            ],
+            "Orientation": [
+                163.55711364746095,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                70.91201782226563,
+                7.1423797607421879,
+                3.8905105590820314
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-3216114",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3206.036865234375,
+                81.36467742919922,
+                6488.73974609375
+            ],
+            "Orientation": [
+                -20.255599975585939,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                15.664739608764649,
+                5.653411865234375,
+                15.348163604736329
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-3251783",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3286.26171875,
+                73.16316223144531,
+                6526.1748046875
+            ],
+            "Orientation": [
+                -20.804462432861329,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                64.23160552978516,
+                14.543243408203125,
+                4.505382537841797
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-3301699",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3233.7607421875,
+                79.76708984375,
+                6505.62890625
+            ],
+            "Orientation": [
+                158.4215545654297,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                48.67796325683594,
+                8.605865478515625,
+                4.372692108154297
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-3365346",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3282.98046875,
+                62.820098876953128,
+                6544.3125
+            ],
+            "Orientation": [
+                -20.04033851623535,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                13.71302604675293,
+                5.7911376953125,
+                15.36282730102539
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-3406370",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3233.4326171875,
+                64.66328430175781,
+                6518.40234375
+            ],
+            "Orientation": [
+                -20.307126998901368,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                97.77556610107422,
+                9.479141235351563,
+                4.940227508544922
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-3461375",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3253.45361328125,
+                62.83313751220703,
+                6509.162109375
+            ],
+            "Orientation": [
+                -19.283809661865236,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                3.0828237533569338,
+                5.7221221923828129,
+                26.829994201660158
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-3526172",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3232.331298828125,
+                64.21794891357422,
+                6480.05322265625
+            ],
+            "Orientation": [
+                -20.043272018432618,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                95.08242797851563,
+                8.136566162109375,
+                17.004837036132814
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-3587702",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3319.85595703125,
+                64.00875854492188,
+                6512.53857421875
+            ],
+            "Orientation": [
+                -20.761491775512697,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                93.00579071044922,
+                8.787994384765625,
+                17.371379852294923
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-3773502",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3323.5966796875,
+                62.643611907958987,
+                6539.63623046875
+            ],
+            "Orientation": [
+                -20.328205108642579,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                59.601837158203128,
+                6.072227478027344,
+                28.889690399169923
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-3962190",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3362.82373046875,
+                62.62507629394531,
+                6567.76318359375
+            ],
+            "Orientation": [
+                -19.843149185180665,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                34.829227447509769,
+                6.12969970703125,
+                3.744394302368164
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4026639",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3425.0322265625,
+                64.00457763671875,
+                6551.9443359375
+            ],
+            "Orientation": [
+                69.85920715332031,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                17.647705078125,
+                8.744338989257813,
+                132.38294982910157
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4092853",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3443.779296875,
+                62.65644073486328,
+                6580.6298828125
+            ],
+            "Orientation": [
+                -19.894689559936525,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                4.0179643630981449,
+                6.1222076416015629,
+                23.91339111328125
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4121398",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3457.5986328125,
+                62.61328125,
+                6600.56494140625
+            ],
+            "Orientation": [
+                -20.785682678222658,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                76.24534606933594,
+                6.199005126953125,
+                4.440559387207031
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4148774",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3494.2529296875,
+                62.579437255859378,
+                6606.04638671875
+            ],
+            "Orientation": [
+                -18.072755813598634,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                3.526928663253784,
+                6.197540283203125,
+                11.769742965698243
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4183109",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3551.06787109375,
+                62.57624816894531,
+                6613.0693359375
+            ],
+            "Orientation": [
+                -12.518038749694825,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                110.7840576171875,
+                6.20391845703125,
+                9.817962646484375
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4372782",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3580.033203125,
+                45.28315734863281,
+                6641.0595703125
+            ],
+            "Orientation": [
+                17.702266693115236,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                13.487815856933594,
+                10.240341186523438,
+                68.71428680419922
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4516276",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3561.982177734375,
+                62.56363296508789,
+                6574.29833984375
+            ],
+            "Orientation": [
+                -13.431354522705079,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                16.901159286499025,
+                6.214195251464844,
+                71.0808334350586
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4568443",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3606.79736328125,
+                62.34239959716797,
+                6530.93408203125
+            ],
+            "Orientation": [
+                -7.59429931640625,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                19.78237533569336,
+                5.412078857421875,
+                23.246734619140626
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4637177",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3549.27587890625,
+                62.49287414550781,
+                6536.28857421875
+            ],
+            "Orientation": [
+                -4.220551490783691,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                97.94998168945313,
+                5.60821533203125,
+                6.014623641967773
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4696478",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3492.529052734375,
+                62.83859634399414,
+                6534.611328125
+            ],
+            "Orientation": [
+                -19.156877517700197,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                15.772789001464844,
+                5.754127502441406,
+                16.38368034362793
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4795067",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3454.50732421875,
+                62.85282516479492,
+                6514.52734375
+            ],
+            "Orientation": [
+                69.1283187866211,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                5.797725677490234,
+                5.719917297363281,
+                70.6562728881836
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4832003",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3460.123046875,
+                62.771385192871097,
+                6537.66845703125
+            ],
+            "Orientation": [
+                -20.11196517944336,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                2.8137693405151369,
+                5.8983612060546879,
+                33.93161392211914
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4912183",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3271.943115234375,
+                62.9810791015625,
+                6453.3515625
+            ],
+            "Orientation": [
+                -20.633644104003908,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                90.7056884765625,
+                5.46917724609375,
+                16.685543060302736
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4940745",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3347.1748046875,
+                62.89629364013672,
+                6475.0654296875
+            ],
+            "Orientation": [
+                -20.709232330322267,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                66.3506088256836,
+                5.638763427734375,
+                3.7350940704345705
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-4986557",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3354.642578125,
+                62.602325439453128,
+                6498.93896484375
+            ],
+            "Orientation": [
+                -19.436725616455079,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                2.885819435119629,
+                5.17120361328125,
+                37.09931945800781
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-5192078",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3266.18798828125,
+                62.768402099609378,
+                6472.51513671875
+            ],
+            "Orientation": [
+                -19.383501052856447,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                5.115008354187012,
+                5.3340606689453129,
+                23.597963333129884
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-5237773",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3164.54052734375,
+                62.9872932434082,
+                6412.66650390625
+            ],
+            "Orientation": [
+                -18.54205322265625,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                14.192277908325196,
+                5.456733703613281,
+                16.348167419433595
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-5259461",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3202.48486328125,
+                63.00389099121094,
+                6420.2578125
+            ],
+            "Orientation": [
+                -20.043188095092775,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                62.998558044433597,
+                5.5258026123046879,
+                3.9318981170654299
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-5306393",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3143.560546875,
+                62.87321472167969,
+                6399.55615234375
+            ],
+            "Orientation": [
+                163.81646728515626,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                34.40817642211914,
+                5.5593719482421879,
+                3.194730758666992
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-613147",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2861.752685546875,
+                68.38961791992188,
+                6294.1240234375
+            ],
+            "Orientation": [
+                38.476741790771487,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                34.107810974121097,
+                4.850494384765625,
+                3.027629852294922
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "Underground_SoundSet",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-638071",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3400.343505859375,
+                56.487281799316409,
+                6488.583984375
+            ],
+            "Orientation": [
+                -14.89354419708252,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                52.87058639526367,
+                32.08538818359375,
+                25.2141170501709
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1100155",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3350.08447265625,
+                47.03453826904297,
+                6469.9228515625
+            ],
+            "Orientation": [
+                -12.424592018127442,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                55.2283821105957,
+                12.667007446289063,
+                14.675917625427246
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1161626",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3447.505126953125,
+                45.19282531738281,
+                6499.41357421875
+            ],
+            "Orientation": [
+                -20.427139282226564,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                46.395225524902347,
+                10.807022094726563,
+                13.941844940185547
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1302897",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3497.543212890625,
+                45.216590881347659,
+                6526.3720703125
+            ],
+            "Orientation": [
+                -32.344539642333987,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                71.21992492675781,
+                10.36358642578125,
+                15.767936706542969
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-1351887",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3548.05126953125,
+                45.41399383544922,
+                6576.9189453125
+            ],
+            "Orientation": [
+                -52.876930236816409,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                80.7186508178711,
+                10.437812805175782,
+                17.24082374572754
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-269348",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3086.33447265625,
+                95.43704223632813,
+                6422.29296875
+            ],
+            "Orientation": [
+                -19.900367736816408,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                51.55908966064453,
+                30.148719787597658,
+                29.689197540283204
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-334139",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3089.256103515625,
+                107.52537536621094,
+                6456.22802734375
+            ],
+            "Orientation": [
+                -19.530792236328126,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                10.886876106262207,
+                6.400886535644531,
+                33.07185363769531
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-363919",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3051.10107421875,
+                104.28848266601563,
+                6440.8515625
+            ],
+            "Orientation": [
+                -15.175569534301758,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                72.32794952392578,
+                12.902427673339844,
+                9.0122652053833
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-404978",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                3012.96630859375,
+                90.15010833740235,
+                6429.888671875
+            ],
+            "Orientation": [
+                -18.60756492614746,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                12.913776397705079,
+                15.951278686523438,
+                4.186645030975342
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Comment": "trigger-450036",
+            "CustomSpawn": 0,
+            "Tag": "",
+            "ParentNetworkId": [],
+            "Position": [
+                2978.9755859375,
+                85.09538269042969,
+                6416.2197265625
+            ],
+            "Orientation": [
+                -19.606727600097658,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                60.50590515136719,
+                6.930946350097656,
+                8.004880905151368
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 0.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        }
+    ]
+}

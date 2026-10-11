@@ -12,6 +12,7 @@
 		<file path="env/zombie_territories.xml" />
 		<file path="env/hare_territories.xml" />
 		<file path="env/fox_territories.xml" />
+		<file path="env/guarddog_territories.xml" />
 
 		<!-- infected link -->
 		<territory type="Herd" name="ZombieTest" behavior="DZdomesticGroupBeh">
@@ -43,6 +44,9 @@
 		</territory>
 		<territory type="Herd" name="PolarBear" behavior="BlissBearGroupBeh">
 			<file usable="polarbear_territories" /> 
+		</territory>
+		<territory type="Herd" name="Dog" behavior="DZDogGroupBeh">
+			<file usable="guarddog_territories" />
 		</territory>
 
 		<!-- ambient stuff -->

@@ -122,7 +122,7 @@
             <item name="PistolSuppressor" chance="1.00" />
         </attachments>
     </type>
-    <type name="CZ527">
+    <type name="CZ527_winter">
         <attachments chance="0.30">
             <item name="Mag_CZ527_5rnd" chance="1.00" />
         </attachments>
@@ -228,7 +228,7 @@
             <item name="UniversalLight" chance="1.00" />
         </attachments>
     </type>
-    <type name="Mosin9130">
+    <type name="Mosin9130_Winter">
         <attachments chance="0.30">
             <item name="Mosin_Compensator" chance="0.50" />
             <item name="Mosin_Bayonet" chance="0.50" />
@@ -271,7 +271,7 @@
             <item name="HuntingOptic" chance="0.25" />
         </attachments>
     </type>
-    <type name="SKS">
+    <type name="SKS_Winter">
         <attachments chance="0.30">
             <item name="SKS_Bayonet" chance="1.00" />
         </attachments>
@@ -421,6 +421,72 @@
             <item name="ReflexOptic" chance="0.33" />
             <item name="M4_T3NRDSOptic" chance="0.33" />
             <item name="M68Optic" chance="0.34" />
+        </attachments>
+    </type>
+    <type name="AKM_Gold">
+        <attachments chance="1.00">
+            <item name="AK_WoodBttstck_Gold" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="AK_WoodHndgrd_Gold" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_AKM_30Rnd_Gold" chance="0.80" />
+            <item name="Mag_AKM_Drum75Rnd_Gold" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="LeeEnfield">
+        <attachments chance="0.30">
+            <item name="Mag_LeeEnfield_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="P1907_Bayonet" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="MP18">
+        <attachments chance="0.30">
+            <item name="Mag_Luger_8Rnd" chance="0.80" />
+            <item name="Mag_MP18_Drum32Rnd" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="Luger">
+        <attachments chance="0.80">
+            <item name="Mag_Luger_8Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="SCARH_Black">
+        <attachments chance="1.00">
+            <item name="SCAR_StockBttstck_Black" chance="0.60" />
+            <item name="SCAR_PrecisionBttstck_Black" chance="0.40" />
+        </attachments>
+        <attachments chance="1.0">
+            <item name="ReflexOptic" chance="0.40" />
+            <item name="M4_T3NRDSOptic" chance="0.30" />
+            <item name="HoloOptic_Black" chance="0.25" />
+            <item name="ACOGOptic" chance="0.05" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_SCARH_20Rnd_Black" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="SCARL_Black">
+        <attachments chance="1.00">
+            <item name="SCAR_StockBttstck_Black" chance="0.60" />
+            <item name="SCAR_PrecisionBttstck_Black" chance="0.40" />
+        </attachments>
+        <attachments chance="1.0">
+            <item name="ReflexOptic" chance="0.40" />
+            <item name="M4_T3NRDSOptic" chance="0.30" />
+            <item name="HoloOptic_Black" chance="0.25" />
+            <item name="ACOGOptic" chance="0.05" />
+        </attachments>
+        <attachments chance="1.0">
+            <item name="Mag_CMAG_10Rnd" chance="0.10" />
+            <item name="Mag_CMAG_20Rnd" chance="0.15" />
+            <item name="Mag_STANAG_30Rnd" chance="0.25" />
+            <item name="Mag_CMAG_30Rnd" chance="0.25" />
+            <item name="Mag_CMAG_40Rnd" chance="0.15" />
+            <item name="Mag_STANAG_60Rnd" chance="0.10" />
         </attachments>
     </type>
 
@@ -1092,6 +1158,14 @@
         <cargo preset="toolsmilitary" />
         <cargo preset="ammomilitary" />
     </type>
+    <type name="FNOJacket">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="OBRJacket_Olive">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
 
 
     <!-- NAMALSK - CLOTHES - PANTS -->
@@ -1343,6 +1417,14 @@
         <cargo preset="ammomilitary" />
     </type>
     <type name="OMKPants_Navy">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="FNOPants">
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+    </type>
+    <type name="OBRPants_Olive">
         <cargo preset="toolsmilitary" />
         <cargo preset="ammomilitary" />
     </type>
@@ -2286,6 +2368,142 @@
         </attachments>
         <attachments chance="1.00">
             <item name="Offroad_02_Trunk" chance="1.00" />
+        </attachments>
+    </type>
+
+    <type name="Motorbike_01_Blue">
+        <attachments chance="0.30">
+            <item name="SparkPlug" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_01_Wheel_1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_01_Wheel_2" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Motorbike_01_Red">
+        <attachments chance="0.30">
+            <item name="SparkPlug" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_01_Wheel_1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_01_Wheel_2" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Motorbike_01_Yellow">
+        <attachments chance="0.30">
+            <item name="SparkPlug" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_01_Wheel_1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_01_Wheel_2" chance="1.00" />
+        </attachments>
+    </type>
+
+    <type name="Motorbike_02_Blue">
+        <attachments chance="0.30">
+            <item name="SparkPlug" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_Wheel_1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_Wheel_2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_ShieldFront_Blue" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_ShieldLeft_Blue" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_ShieldRight_Blue" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Motorbike_02_Green">
+        <attachments chance="0.30">
+            <item name="SparkPlug" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_Wheel_1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_Wheel_2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_ShieldFront_Green" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_ShieldLeft_Green" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_ShieldRight_Green" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Motorbike_02_Red">
+        <attachments chance="0.30">
+            <item name="SparkPlug" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_Wheel_1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_Wheel_2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_ShieldFront_Red" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_ShieldLeft_Red" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_ShieldRight_Red" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Motorbike_02_Yellow">
+        <attachments chance="0.30">
+            <item name="SparkPlug" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_Wheel_1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_Wheel_2" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_ShieldFront_Yellow" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_ShieldLeft_Yellow" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Motorbike_02_ShieldRight_Yellow" chance="1.00" />
         </attachments>
     </type>
 

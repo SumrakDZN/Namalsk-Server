@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4278190335">
+        <zone name="HuntingGround" smin="5" smax="8" dmin="10" dmax="15" x="3495.83" z="6713.89" r="60"/>
+        <zone name="Rest" smin="5" smax="8" dmin="10" dmax="15" x="3425" z="6715.28" r="60"/>
+    </territory>
+    <territory color="4278190335">
+        <zone name="Rest" smin="5" smax="8" dmin="10" dmax="15" x="4181.94" z="6590.28" r="60"/>
+        <zone name="HuntingGround" smin="5" smax="8" dmin="10" dmax="15" x="4098.61" z="6623.61" r="60"/>
+        <zone name="HuntingGround" smin="5" smax="8" dmin="10" dmax="15" x="4170.83" z="6677.78" r="60"/>
+    </territory>
+    <territory color="4278190335">
+        <zone name="HuntingGround" smin="5" smax="8" dmin="10" dmax="15" x="5011.11" z="6529.17" r="60"/>
+        <zone name="Rest" smin="5" smax="8" dmin="10" dmax="15" x="5063.89" z="6634.72" r="60"/>
+    </territory>
+    <territory color="4278190335">
+        <zone name="HuntingGround" smin="5" smax="8" dmin="10" dmax="15" x="4911.11" z="6683.33" r="60"/>
+        <zone name="Rest" smin="5" smax="8" dmin="10" dmax="15" x="4876.39" z="6575" r="60"/>
+    </territory>
+    <territory color="4278190335">
+        <zone name="Rest" smin="5" smax="8" dmin="10" dmax="15" x="4206.94" z="8195.83" r="60"/>
+        <zone name="HuntingGround" smin="5" smax="8" dmin="10" dmax="15" x="4112.5" z="8065.28" r="60"/>
+    </territory>
+    <territory color="4278190335">
+        <zone name="HuntingGround" smin="5" smax="8" dmin="10" dmax="15" x="4590.28" z="8223.61" r="60"/>
+        <zone name="Rest" smin="5" smax="8" dmin="10" dmax="15" x="4363.89" z="8187.5" r="60"/>
+    </territory>
+    <territory color="4278190335">
+        <zone name="Rest" smin="5" smax="8" dmin="10" dmax="15" x="1202.08" z="11858.3" r="60"/>
+        <zone name="HuntingGround" smin="5" smax="8" dmin="10" dmax="15" x="1233.68" z="11786.1" r="60"/>
+    </territory>
+    <territory color="4278190335">
+        <zone name="Rest" smin="5" smax="8" dmin="10" dmax="15" x="3948.96" z="9894.79" r="60"/>
+        <zone name="HuntingGround" smin="5" smax="8" dmin="10" dmax="15" x="3935.76" z="10012.2" r="60"/>
+    </territory>
+</territory-type>

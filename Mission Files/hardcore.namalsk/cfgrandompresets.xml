@@ -275,6 +275,7 @@
 	<!-- army infected - USMC -->
 	<attachments chance="0.70" name="headsUS">
 		<!--<item name="Mich2001Helmet" chance="0.80" />-->
+		<item name="MilitaryCap_Woodland" chance="0.20" />
 		<item name="dzn_milberet_green" chance="0.20" />
 	</attachments>
 	<attachments chance="0.25" name="vestsUS">
@@ -287,6 +288,7 @@
 	<attachments chance="0.70" name="headsRU">
 		<!--<item name="BallisticHelmet_Green" chance="0.50" /> 
 		<item name="GorkaHelmet" chance="0.30" />-->
+		<item name="OBRCap_Olive" chance="0.10" />
 		<item name="dzn_milberet_green" chance="0.10" />
 		<item name="dzn_milberet_specnaz" chance="0.10" />
 	</attachments>
@@ -296,8 +298,10 @@
 		<item name="PlateCarrierVest_Green" chance="0.05" />
 	</attachments>
 	<attachments chance="0.25" name="vestsRUCamo">
-		<item name="SmershVest" chance="0.45" />
-		<item name="HighCapacityVest_Olive" chance="0.35" />
+		<item name="SmershVest" chance="0.25" />
+		<item name="ChestRigVest_Khaki" chance="0.20" />
+		<item name="ChestRigVest_Olive" chance="0.20" />
+		<item name="HighCapacityVest_Olive" chance="0.15" />
 		<item name="PlateCarrierVest_Camo" chance="0.15" />
 		<item name="PlateCarrierVest_Winter" chance="0.05" />
 	</attachments>
