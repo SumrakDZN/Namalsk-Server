@@ -748,6 +748,7 @@
     <usage />
     <value user="Tier6" />
     <category name="lantia" />
+    <tag name="industrial" />
   </type>
   <type name="dzn_platecarrierholster_nac">
     <nominal>1</nominal>
