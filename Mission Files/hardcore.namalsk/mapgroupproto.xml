@@ -10623,7 +10623,6 @@
 				<container name="Storage" lootmax="10">
 						<category name="weapons" />
 						<category name="tools" />
-						<category name="lore" />
 						<category name="clothes" />
 						<tag name="military" />
 						<tag name="civilian" />
